@@ -5,7 +5,7 @@ const keys = [
   ['a','s','d','f','g','h','j','k','l'],
   ['z','x','c','v','b','n','m','@', '_', '-', '.'],
   ['1','2','3','4','5','6','7','8','9','0'],
-  ['Space', 'Backspace']
+  ['Space', 'Borrar']
 ];
 
 export default function VirtualKeyboard({ onChange }) {
@@ -20,7 +20,7 @@ export default function VirtualKeyboard({ onChange }) {
     const end = input.selectionEnd;
     let newValue = input.value;
 
-    if (key === 'Backspace') {
+    if (key === 'Borrar') {
       newValue = newValue.slice(0, start - 1) + newValue.slice(end);
       input.setSelectionRange(start - 1, start - 1);
     } else if (key === 'Space') {
@@ -47,14 +47,15 @@ export default function VirtualKeyboard({ onChange }) {
         onChange={(e) => onChange?.(e.target.value)}
         style={{ padding: '0.5rem', fontSize: '1rem', width: '100%' }}
         placeholder="Tap here to type"
+        className='text-gray-300 border-b border-gray-300 focus:border-[#00BFA6] focus:ring-[#00BFA6]'
       />
 
-      <button onClick={() => setVisible(!visible)} style={{ marginTop: '1rem', padding: '0.5rem' }}>
-        {visible ? 'Hide Keyboard' : 'Show Keyboard'}
+      <button type='button' onClick={() => setVisible(!visible)} className='text-gray-300' style={{ marginTop: '1rem', padding: '0.5rem' }}>
+        {visible ? 'Ocultar Teclado' : 'Mostrar Teclado'}
       </button>
 
       {visible && (
-        <div style={{ marginTop: '1rem', background: '#f0f0f0', padding: '1rem', borderRadius: '0.5rem' }}>
+        <div style={{ marginTop: '1rem', background: '#f0f0f0', padding: '1rem', borderRadius: '0.5rem' }} className='w-full'>
           {keys.map((row, i) => (
             <div key={i} style={{ display: 'flex', justifyContent: 'center', marginBottom: '0.5rem' }}>
               {row.map((key) => (

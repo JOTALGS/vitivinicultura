@@ -206,8 +206,8 @@ export default function HomePage() {
   }, []);
 
   return (
-    <main style={{ height: '200vh' }} className='flex flex-col bg-[#a3324e]'>
-      <div className='' style={{ width: '100%', height: '50%', position: 'relative' }}>
+    <main style={{ height: '250vh' }} className='flex flex-col bg-[#a3324e]'>
+      <div className='' style={{ width: '100%', height: '40%', position: 'relative' }}>
         <img
           src="/images/PLANIFICA.jpg"
           alt="Logo"

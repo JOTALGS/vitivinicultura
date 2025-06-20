@@ -474,7 +474,7 @@ export default function ItinerarySender({ locations }) {
   };
 
   return (
-    <div className="p-4 rounded-lg max-w-md mx-auto -translate-y-5">
+    <div className="p-4 rounded-lg flex items-center flex-col -translate-y-5">
       <form ref={formRef} onSubmit={handleSubmit}>
         <input
           type="hidden"
@@ -482,7 +482,7 @@ export default function ItinerarySender({ locations }) {
           value="Will be set in email template"
         />
         
-        <div className="mb-4">
+        <div className="mb-4 w-[80vw]">
           <VirtualKeyboard onChange={handleKeyboardChange}/>
         </div>
         
