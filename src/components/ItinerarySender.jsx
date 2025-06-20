@@ -2,11 +2,12 @@ import React, { useState, useRef } from 'react';
 import { PDFDocument, rgb, StandardFonts } from 'pdf-lib';
 import Cookies from 'js-cookie';
 import emailjs from '@emailjs/browser';
+import VirtualKeyboard from './Keyboard';
 
 // Dropbox API endpoints
 const DROPBOX_UPLOAD_URL = 'https://content.dropboxapi.com/2/files/upload';
 const DROPBOX_SHARE_URL = 'https://api.dropboxapi.com/2/sharing/create_shared_link_with_settings';
-const DROPBOX_ACCESS_TOKEN = 'sl.u.AFw9-YYMQQCvMOaML1Oh6vfh1HHxsIcD84kJa9G1AX5h2krh0MdvoJ6cJJf4njy225I1577vtY8L80_-UkRNmjn-yvZ2IqaUPC68T6g16-CS_YmAFHNN0aY64nVBC4ZjswQiknIw1L2x9UrWbDdFYry8Og8SYbrZGcCwxuTIfDGmrjevpyniRqmHg6LLSWrQ-XnUz6Tqzf9KmZiaOhB4gadhTv3lVuzlSbudozDij_oxhkKBzt7gN6y5f2_BYH4uxf811jDjbfQasnZLkoZLbCIcMPhy98Vj6Um8FgbXGTLoQhetvi3ZNDBRT7yqi44iV8fJCK5A2HhITIa7l8cZtp085O95DXK6VLTU13-h4WdcWgk5CsNXdh6DbQST-2oLOrn4IsBFhil75ymdP8ytDPyt3fvQo2Sgleon15aNxQNtmg4Ixp4Z2JE8P1esjND3xvBz-D6Fln8J6dpevGFjdPqqiaIf7sa7aL2lgLWUzfvh53kHFZIozP4tBi7vcOewc4DzgC134-8Q1XR52pcLyivqN7Xag2b3CiEOWD1yCJIOrky77XEFYkGh_eZ2mmp7lkzExlTsO4YoxfSLmNyVo-tI0zyPg--znDUY6XC_6QuFS0t1gXFSJwApGeG6PLgzqc5p1uFDXygwPUBAV2UBsasq-4U5mcAQ790qbuqtb4QbxAqCDDKLjXXGlVw8sAX11XSCLX3KiQaK-enoDnNZk7akgTCsLbQBN6uMTtt14pyPtrrtovZycPI8ui5Pbxu8ROkLVoeWxIsV0VtgQAQBIxjdM3fwjCJB4BJ7jCJXGN3t05UoyZF-3hdTxYX2QOQUY1ngOGO-Nz6NU6x50LqWKPw43Bq-IhFK_YejqWbJOpnB8Y1mj1RuuxvNVX6iy20w7dFt6RU82LgqUxrqr6thO5NsDI4d1-KPxfzeSVLvkWLw3nUmBsjtyni62iMW6SfGaaankxVcP8ZF5mbghd8QjrT2-hHmNTI8gvrMUc5QONZt95iqlSV2VQ8TV5zQnfb7RchcRbmi0HMlmcrNwxVN6FQ5SlXCQ9Rs7yLpYeM22xRPWekmC0Rux8TQnNzdAaiydLD3WBalL9xJG5yrdL53a_NlRWoIM9wVrkn0yw3h9PWSL3rvY1ztQ8lL-4i7TBApEnC9K4EHsxnjTbDTTG27__NrUVoK_OHL0kMboeCrohuXepAOKwToKr57REVtNKTToeKAt-e5LGI3S9kIR2HY2vs4ddfhpdJD071dZA7TzF0wtJf3DV_WuvA9uifknzB12J_RfjYGFoqLARLPLhkhP9LLmJZS3Sgwd_jb1Qd8kOdtW200gu0jXDMRKl1ImppEScTRIW06AYaigBFkgckCCjlv01UsZVXv7Ly6oXWF-PXnsDwoyWOSkr0VflZQE3p5ImV25Rv9GPxQMs9ZJaXlk4znb6tO8IpI5TmeBxbi3GQkIA';
+const DROPBOX_ACCESS_TOKEN = 'sl.u.AFy9o6aKzZnRF3UbRPt1U7DfRomsMu-Haz0DFyoSnGeTrEkVMFWqR-H1RUj13E3BgGoYL9hfTkfiZk0ZlaTLvHtNIiu3M4ChkOmXWEr3Ae1zLgjlFR_CYRTWbCmow4zWaTeHlj-9jlWxkGos6xYbWztUspIbRTyo5imAIPHuqSXyw1RklZcJTNQ0Ajy5ActKaVCIbk_lYmQIohhO_futhMLKbgTvoJcqPID7s6KRGfnfkJWFmHwwHLvDYixnI3ty3cz7FosFsn9H5mKTYzLXjTsZ5wqwlScGm3HBBr32MgqHKwfjQx0v5o_-c4KQlFAOktUKUPeZIbYR5uCdMM5xv02n3Hj1fMzf-va1Z7k7Lq-6Wsqk_KskrIPF24RjxpSfv6nLrEZqDXQ16dQKZCbPw5-xWYYgz9_y35dlqMmnosjqIlsxV9C7C3cRuvQkOon8pXQjL-sZikW38CR1lMHTbsbxEOD8pf_w40FbyOxmsa1w-io-zam4QWvScEj8TDCprl_ul-jvPdz9Q7GJ-ctxycW_jY3mOhIbFrWrtt1iUlXmDY2eNzXKdwc_FroIEnRN5uxJVXTSGZt_Ap20bogarkJDDtj40VrPgfrYNSPJkcLUX-jgsgkVEyGs0miPWcyl3wXs2aGbBi5AIRwSuqA5cVfHBQgxaTuAvmqVIIt1Fha7ok51_gJgxGNGHoNZACOZW9cmDVCiuokM5LI8OBSAP677xpKtAW8IzyEuUlY1IlC5WRcG1ZuSKUiDNREI2W9txpS_Fk73KcqfeGTDDS-2qff65VvH1yGN1ejlmI6Sf2Cx5TlStarc0FuV3E0uZKx5dWBdcR722kPV4Zj9STEbPKU9Td9FtG1wNwJG5n6ASMC_wdJI1HVTJYqFHv1j9BAhVRJa56chD1Eiz1ydcSsqm8LaNF_0Hq3gqqeBfvOOabhaIoXni8SDTTHf2nglkEHc89dwV0uH66nVA9AofzwOM6RyegFGuynSKluvLTZGigMp35EFNZoUrpYza0GRb5XyK1tA3NMzjIvaXYDf_HSrkPeEnSOgPKYdvy_PtVclqwgmRYkqO_xTgEgMm-mLlgl0x79RxuCzNZPTKV98-NsCFVD5Of-ZErhPWxIF7wjVsIFOsv210PSiT1x36Uy0Tdl2IMnE97WMr_JmRtMeDLuuf7erjrN73mRHWShEpwbjQBwjnA6It0_8dMJ8qWigK2IDgC_dVgUpKH8jlme6qBZAdoLC-6pUH_jeIJB8jdaDzvzBUaZkv_tSYh7mcqAXyblgNbxKiYfMfjEgEZRZDiltTlwDTbKVxn02aQo-lf26GuTXvwFuvcVCKYZGWU1vksQg1vkPi9xPgmbkiKeqs7cPzELwQIAgjD36l1U_FY-fHHoKp2X-RlXQ2zlGUcHnh7IE895C1XEU1AdZkh3EijU_y6xkLjPe1Zwy0UtRe5Q1tHCrYw';
 
 // EmailJS configuration
 const EMAILJS_SERVICE_ID = 'service_lzdx8mk';
@@ -18,6 +19,12 @@ export default function ItinerarySender({ locations }) {
   const [message, setMessage] = useState('');
   const [email, setEmail] = useState('');
   const formRef = useRef();
+  const emailRef = useRef(null);
+
+  const handleKeyboardChange = (value) => {
+    setEmail(value);
+    console.log('Current email value:', value);
+  }
 
   // Function to clean text and remove problematic unicode characters
   const cleanText = (text) => {
@@ -476,21 +483,7 @@ export default function ItinerarySender({ locations }) {
         />
         
         <div className="mb-4">
-          <label htmlFor="email" className="block text-gray-300 text-xl font-medium mb-1">
-            Ingrese su email
-          </label>
-          <input
-            type="email"
-            id="email"
-            name="user_email"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-            placeholder="you@example.com"
-            className="w-full px-3 py-2 border-b border-gray-300 text-gray-300 
-                        focus:outline-none focus:border-b-2 focus:border-[#F2E6CE]"
-            required
-            disabled={status !== 'idle' && status !== 'error'}
-          />
+          <VirtualKeyboard onChange={handleKeyboardChange}/>
         </div>
         
         <button

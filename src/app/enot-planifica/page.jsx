@@ -10,6 +10,7 @@ import Card from '@/components/Card'; // Adjust import path as needed
 import Cookies from "js-cookie";
 import emailjs from '@emailjs/browser';
 import ItinerarySender from '@/components/ItinerarySender'; // Adjust import path as needed
+import VirtualKeyboard from '@/components/Keyboard';
 
 const CategoryCarousel = ({ category, items }) => {
   const navigationPrevRef = useRef(null);
