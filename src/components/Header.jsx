@@ -118,22 +118,6 @@ export default function Header() {
               />
             </Link>
 
-            {/* Top info - Desktop */}
-            <div className="hidden md:flex flex-col items-end gap-3 text-gray-500">
-              <div className="flex items-center gap-6 flex-wrap">
-                <select
-                  className="border border-gray-300 rounded px-2 py-1"
-                  value={idioma}
-                  onChange={handleChange}
-                >
-                  <option value="es">Español</option>
-                  <option value="en">English</option>
-                  <option value="pt">Português</option>
-                  <option value="fr">Français</option>
-                </select>
-              </div>
-            </div>
-
             {/* Mobile hamburger */}
             <button
               className="md:hidden relative w-14 h-14 flex items-center justify-center z-78"
