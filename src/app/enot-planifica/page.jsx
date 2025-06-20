@@ -109,15 +109,13 @@ export default function HomePage() {
   useEffect(() => {
     const fetchLocations = async () => {
       try {
-        const response = await fetch('/entities_with_coords.json');
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        const data = await response.json();
-        
         // Get favorites from cookies
         const rawFavorites = Cookies.get("favoritos");
         let favoriteIds = [];
+        if (!rawFavorites) {
+          console.log('No favorites found');
+          return
+        }
         
         try {
           const favorites = rawFavorites ? JSON.parse(decodeURIComponent(rawFavorites)) : [];
@@ -125,6 +123,14 @@ export default function HomePage() {
         } catch (error) {
           console.error('Error parsing favorites:', error);
         }
+
+
+        const response = await fetch('/entities_with_coords.json');
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        
 
         const validLocations = data.entities.filter(entity => {
           // First check coordinates are valid
