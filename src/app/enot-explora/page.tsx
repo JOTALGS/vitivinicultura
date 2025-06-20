@@ -3,6 +3,7 @@
 import Header from '@/components/Header';
 import SectionsMap from '@/components/SectionsMap';
 import ServiceFilters from '@/components/ServiceFilters';
+import ClearFavoritosClient from '@/hooks/ClearFavoritosClient';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 
@@ -16,6 +17,7 @@ export default function HomePage() {
 
   return (
     <main className='flex flex-col bg-[#a3324e] pb-80'>
+      <ClearFavoritosClient />
         <div className='' style={{ width: '100%', height: '100vh', position: 'relative' }}>
           <Image
             src="/images/EXPLORA.jpg"
@@ -28,12 +30,6 @@ export default function HomePage() {
                 fontFamily: 'Aptos',
                 fontWeight: '800',
                 fontSize: '60px',
-                textShadow: `
-                  -3px -3px 0 #000,
-                  3px -3px 0 #000,
-                  -3px 3px 0 #000,
-                  3px 3px 0 #000
-                `,
               }}
               className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[80%] text-center text-white text-2xl md:text-4xl font-bold'
             >

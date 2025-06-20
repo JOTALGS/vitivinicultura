@@ -222,12 +222,6 @@ export default function HomePage() {
             fontFamily: 'Aptos',
             fontWeight: '800',
             fontSize: '60px',
-            textShadow: `
-              -3px -3px 0 #000,
-              3px -3px 0 #000,
-              -3px 3px 0 #000,
-              3px 3px 0 #000
-            `,
           }}
           className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[80%] text-center text-white text-2xl md:text-4xl font-bold'
         >

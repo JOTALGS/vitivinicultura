@@ -1,5 +1,6 @@
 'use client';
 import React, { useRef, useState } from 'react';
+import ClearFavoritosClient from '@/hooks/ClearFavoritosClient';
 
 export default function HomePage() {
   const videoRef = useRef(null);
@@ -14,6 +15,7 @@ export default function HomePage() {
 
   return (
     <div style={{ height: '100vh', overflow: 'hidden' }}> {/* Outer container */}
+      <ClearFavoritosClient />
       <main className='flex flex-col items-center bg-[#a3324e] h-full relative'>
         <video
           ref={videoRef}
