@@ -44,14 +44,24 @@ export default function LocationDrawer({
       <div className="p-4 bg-[#C97A95] h-full shadow-md z-[1000] overflow-y-auto">
         <div className='flex flex-row items-start'>
           <h3 className="mt-0 mb-6 text-[30px] font-semibold text-[#722F37] uppercase">Bodegas Y Viñedos </h3>
-          <Link
-            href={'/enot-planifica'}
-            className="relative z-[10] text-sm cursor-pointer transition-colors py-2 text-black hover:text-orange-400"
-          >
-            <span className="relative z-[10]">
-              Ve a tu selección
-            </span>
-          </Link>
+          <div className='flex flex-col'>
+            <Link
+              href={'/enot-planifica'}
+              className="relative z-[10] text-sm cursor-pointer transition-colors py-2 text-black hover:bg-orange-400/50 p-2 rounded-md"
+            >
+              <span className="relative z-[10]">
+                Ve a tu selección
+              </span>
+            </Link>
+            <Link
+              href={'/enot-explora'}
+              className="relative z-[10] text-sm cursor-pointer transition-colors py-2 text-black  hover:bg-red-400/50 p-2 rounded-md"
+            >
+              <span className="relative z-[10]">
+                Volver
+              </span>
+            </Link>
+          </div>
         </div>
 
         <ul className="list-none p-0">
