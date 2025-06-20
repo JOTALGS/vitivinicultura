@@ -9,72 +9,8 @@ import { useSectionFromUrl } from '@/hooks/useSectionFromUrl';
 import { MdFavorite, MdFavoriteBorder } from "react-icons/md";
 import Cookies from "js-cookie";
 
-// Types
-type EntityImage = {
-  src: string;
-  alt: string;
-  title: string;
-};
-
-type EntityEvent = {
-  event_link: string;
-  image_url: string;
-  image_alt: string;
-  local_image_path: string;
-  title: string;
-  description: string;
-  date: string;
-  location: string;
-};
-
-type EntityContactInfo = {
-  email: string;
-  website: string;
-};
-
-type EntityGeocodingInfo = {
-  display_name: string;
-  source: string;
-};
-
-type Entity = {
-  name: string;
-  servicios: string[];
-  datos_de_contacto: string[];
-  como_llegar: string[];
-  images: EntityImage[];
-  contact_info: EntityContactInfo;
-  services: string[];
-  downloaded_images: EntityImage[];
-  entity_index: number;
-  entity_key: string;
-  extended_description: string;
-  events: EntityEvent[];
-  coordinates: [number, number];
-  geocoding_info: EntityGeocodingInfo;
-};
-
-type LocationData = {
-  total_entities: number;
-  entities: Entity[];
-};
-
-type Favorite = {
-  place_id: number;
-  name: string;
-};
-
-type SectionCenter = {
-  [key: string]: [number, number];
-};
-
-type InitialView = {
-  center: [number, number];
-  zoom: number;
-};
-
 // Constants
-const COMPOSITE_SECTIONS: Record<string, string[]> = {
+const COMPOSITE_SECTIONS = {
   'UYLN': ['Artigas', 'Salto', 'Paysandu'],
   'UYLS': ['Rio Negro', 'Soriano', 'Colonia'],
   'UYMT': ['San Jose', 'Canelones', 'Montevideo'],
@@ -84,7 +20,7 @@ const COMPOSITE_SECTIONS: Record<string, string[]> = {
   'UYOC': ['Rocha', 'Maldonado']
 };
 
-const SECTIONS_DICT: Record<string, string> = {
+const SECTIONS_DICT = {
   'UYAR': 'Artigas',
   'UYSA': 'Salto',
   'UYPA': 'Paysandu',
@@ -106,7 +42,7 @@ const SECTIONS_DICT: Record<string, string> = {
   'UYLA': 'Lavalleja'
 };
 
-const SECTION_CENTERS: SectionCenter = {
+const SECTION_CENTERS = {
   'UYAR': [-30.709876653046706, -56.86943878972716],
   'UYSA': [-31.36900967052479, -57.115297355900275],
   'UYPA': [-32.05039210201965, -57.252627370323445],
@@ -143,16 +79,16 @@ L.Icon.Default.mergeOptions({
   shadowUrl: '/images/mappin.png',
 });
 
-// Helper function - moved before component to fix hoisting issue
-const getInitialView = (sectionCode: string): InitialView => {
+// Helper function
+const getInitialView = (sectionCode) => {
   if (sectionCode === 'UYMO') {
     return {
-      center: (SECTION_CENTERS[sectionCode as keyof typeof SECTION_CENTERS] || [-34.90, -56.16]),
+      center: (SECTION_CENTERS[sectionCode] || [-34.90, -56.16]),
       zoom: 10
     };
   } else if (new Set(['UYLN', 'UYLS', 'UYMT', 'UYCT', 'UYCE', 'UYNO', 'UYOC']).has(sectionCode)) {
     return {
-      center: (SECTION_CENTERS[sectionCode as keyof typeof SECTION_CENTERS] || [-34.90, -56.16]),
+      center: (SECTION_CENTERS[sectionCode] || [-34.90, -56.16]),
       zoom: 8
     };
   } else if (['UYFAL', 'UYFEV', 'UYFTI', 'UYFRE', 'UYFTY'].some(code => 
@@ -164,17 +100,13 @@ const getInitialView = (sectionCode: string): InitialView => {
       };
   }
   return {
-    center: (SECTION_CENTERS[sectionCode as keyof typeof SECTION_CENTERS] || [-34.90, -56.16]),
+    center: (SECTION_CENTERS[sectionCode] || [-34.90, -56.16]),
     zoom: 9
   };
 };
 
 // Helper Components
-function ChangeView({ center, zoom, duration = 2000 }: { 
-  center: [number, number]; 
-  zoom: number;
-  duration?: number;
-}) {
+function ChangeView({ center, zoom, duration = 2000 }) {
   const map = useMap();
   
   useEffect(() => {
@@ -188,7 +120,7 @@ function ChangeView({ center, zoom, duration = 2000 }: {
   return null;
 }
 
-function ServiceIcon({ service }: { service: string }) {
+function ServiceIcon({ service }) {
   switch (true) {
     case service.includes('Tienda'):
       return (
@@ -222,21 +154,21 @@ function ServiceIcon({ service }: { service: string }) {
 // Main Component
 export default function Map() {
   const sectionCode = useSectionFromUrl();
-  const [currentView, setCurrentView] = useState<InitialView>(() => getInitialView(sectionCode));
-  const [activeLocation, setActiveLocation] = useState<Entity | null>(null);
+  const [currentView, setCurrentView] = useState(() => getInitialView(sectionCode));
+  const [activeLocation, setActiveLocation] = useState(null);
   const [showDetails, setShowDetails] = useState(false);
-  const [locations, setLocations] = useState<Entity[]>([]);
+  const [locations, setLocations] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+  const [error, setError] = useState(null);
   const [isExpanded, setIsExpanded] = useState(false);
-  const [favs, setFavs] = useState<Favorite[]>([]);
+  const [favs, setFavs] = useState([]);
 
   const fetchLocations = useCallback(async () => {
     try {
       const response = await fetch('/entities_with_coords.json');
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
       
-      const data: LocationData = await response.json();
+      const data = await response.json();
       const parts = sectionCode.split('-');
       const serviceCodes = ['UYFAL', 'UYFEV', 'UYFTI', 'UYFRE', 'UYFTY'];
       const serviceParts = [...new Set(parts.filter(part => serviceCodes.includes(part)))];
@@ -251,14 +183,12 @@ export default function Map() {
         // Service filters (if any service codes present)
         if (serviceParts.length > 0) {
           return serviceParts.every(servicePart => {
-            console.log('#####DEBUG####servicePart', entity.servicios);
             switch (servicePart) {
               case 'UYFAL': 
                 return entity.servicios?.some(service => 
                   service.toLowerCase().includes('alojamiento')
                 ) ?? false;
               case 'UYFEV':
-                // Handle both array (length) and number formats
                 return (Array.isArray(entity.events) && entity.events.length > 0) || 
                       (typeof entity.events === 'number' && entity.events > 0);
               case 'UYFTI':
@@ -304,7 +234,7 @@ export default function Map() {
     }
   }, [sectionCode]);
 
-  const handleLocationClick = useCallback((location: Entity) => {
+  const handleLocationClick = useCallback((location) => {
     if (activeLocation?.entity_key === location.entity_key) {
       setCurrentView(getInitialView(sectionCode));
       setActiveLocation(null);
@@ -325,11 +255,11 @@ export default function Map() {
     setCurrentView(getInitialView(sectionCode));
   }, [sectionCode]);
 
-  const toggleFav = useCallback((location: Entity) => {
+  const toggleFav = useCallback((location) => {
     if (!location?.entity_index) return;
 
     const isAlreadyFav = favs.some(f => f.place_id === location.entity_index);
-    let updatedFavs: Favorite[];
+    let updatedFavs;
 
     if (isAlreadyFav) {
       updatedFavs = favs.filter(f => f.place_id !== location.entity_index);
@@ -480,19 +410,8 @@ export default function Map() {
 }
 
 
-interface Event {
-  id: string;
-  title: string;
-  date: string;
-  description: string;
-  image_url?: string;
-  image_alt?: string;
-}
-
 function EventsList({
-  events,
-}: {
-  events: Event[] | number;
+  events
 }) {
   // Handle different types of events data
   if (!events) {
@@ -511,7 +430,6 @@ function EventsList({
     return <p className="text-gray-500 text-center py-4">No hay eventos proximamente</p>;
   }
 
-  console.log(events);
   return (
     <div className="space-y-4">
       {events.map((event) => (
@@ -552,14 +470,6 @@ function DetailsPanel({
   onClose,
   onToggleFav,
   onToggleExpand
-}: {
-  activeLocation: Entity | null;
-  showDetails: boolean;
-  isCurrentFav: boolean;
-  isExpanded: boolean;
-  onClose: () => void;
-  onToggleFav: (location: Entity) => void;
-  onToggleExpand: () => void;
 }) {
   if (!activeLocation) return null;
 
@@ -613,9 +523,9 @@ function DetailsPanel({
 }
 
 
-function LocationImage({ activeLocation }: { activeLocation: Entity }) {
+function LocationImage({ activeLocation }) {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [images, setImages] = useState<Image[]>([]);
+  const [images, setImages] = useState([]);
 
   useEffect(() => {
     // Reset index and images when location changes
@@ -666,7 +576,7 @@ function LocationImage({ activeLocation }: { activeLocation: Entity }) {
         alt={currentImage.alt || activeLocation.name || 'Location image'}
         className="w-full h-full object-cover transition-opacity duration-300"
         onError={(e) => {
-          (e.target as HTMLImageElement).src = 'https://via.placeholder.com/350x150?text=Image+Not+Available';
+          (e.target).src = 'https://via.placeholder.com/350x150?text=Image+Not+Available';
         }}
       />
       
@@ -727,10 +637,6 @@ function LocationDescription({
   description,
   isExpanded,
   onToggleExpand
-}: {
-  description: string;
-  isExpanded: boolean;
-  onToggleExpand: () => void;
 }) {
   if (!description) return null;
 
@@ -756,7 +662,7 @@ function LocationDescription({
   );
 }
 
-function ServicesList({ services }: { services: string[] }) {
+function ServicesList({ services }) {
   return (
     <div className="mb-6">
       <h3 className="mb-2 text-[25px] font-semibold text-[#bfb53d]">Servicios</h3>
@@ -780,10 +686,6 @@ function LocationInfo({
   directions,
   contactInfo,
   contactData
-}: {
-  directions: string[];
-  contactInfo: EntityContactInfo;
-  contactData: string[];
 }) {
   return (
     <>
@@ -792,11 +694,11 @@ function LocationInfo({
         <ul className="pl-5">
           {directions.length > 0 ? (
             directions.map((direction, index) => (
-              <div className='flex items-center mb-2 gap-2'>
+              <div key={index} className='flex items-center mb-2 gap-2'>
                 {index===0 && <svg fill='#a3324e' xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 320 512"><path d="M16 144a144 144 0 1 1 288 0A144 144 0 1 1 16 144zM160 80c8.8 0 16-7.2 16-16s-7.2-16-16-16c-53 0-96 43-96 96c0 8.8 7.2 16 16 16s16-7.2 16-16c0-35.3 28.7-64 64-64zM128 480l0-162.9c10.4 1.9 21.1 2.9 32 2.9s21.6-1 32-2.9L192 480c0 17.7-14.3 32-32 32s-32-14.3-32-32z"/></svg>}
                 {index===1 && <svg fill='#a3324e' xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 512 512"><path d="M256 0c17.7 0 32 14.3 32 32l0 34.7C368.4 80.1 431.9 143.6 445.3 224l34.7 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-34.7 0C431.9 368.4 368.4 431.9 288 445.3l0 34.7c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-34.7C143.6 431.9 80.1 368.4 66.7 288L32 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l34.7 0C80.1 143.6 143.6 80.1 224 66.7L224 32c0-17.7 14.3-32 32-32zM128 256a128 128 0 1 0 256 0 128 128 0 1 0 -256 0zm128-80a80 80 0 1 1 0 160 80 80 0 1 1 0-160z"/></svg>}
                 {index===2 && <svg fill='#a3324e' xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 576 512"><path d="M302.8 312C334.9 271.9 408 174.6 408 120C408 53.7 354.3 0 288 0S168 53.7 168 120c0 54.6 73.1 151.9 105.2 192c7.7 9.6 22 9.6 29.6 0zM416 503l144.9-58c9.1-3.6 15.1-12.5 15.1-22.3L576 152c0-17-17.1-28.6-32.9-22.3l-116 46.4c-.5 1.2-1 2.5-1.5 3.7c-2.9 6.8-6.1 13.7-9.6 20.6L416 503zM15.1 187.3C6 191 0 199.8 0 209.6L0 480.4c0 17 17.1 28.6 32.9 22.3L160 451.8l0-251.4c-3.5-6.9-6.7-13.8-9.6-20.6c-5.6-13.2-10.4-27.4-12.8-41.5l-122.6 49zM384 255c-20.5 31.3-42.3 59.6-56.2 77c-20.5 25.6-59.1 25.6-79.6 0c-13.9-17.4-35.7-45.7-56.2-77l0 194.4 192 54.9L384 255z"/></svg>}
-                <li key={index} className="text-sm text-gray-800">{direction}</li>
+                <li className="text-sm text-gray-800">{direction}</li>
               </div>
             ))
           ) : (

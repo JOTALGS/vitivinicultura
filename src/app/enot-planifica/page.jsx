@@ -1,17 +1,15 @@
 'use client';
-
-import Image from 'next/image';
-import { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Mousewheel, FreeMode } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/free-mode';
-import Card from '@/components/Card';
+import Card from '@/components/Card'; // Adjust import path as needed
 import Cookies from "js-cookie";
 import emailjs from '@emailjs/browser';
-import ItinerarySender from '@/components/ItinerarySender';
+import ItinerarySender from '@/components/ItinerarySender'; // Adjust import path as needed
 
 const CategoryCarousel = ({ category, items }) => {
   const navigationPrevRef = useRef(null);
@@ -100,51 +98,10 @@ const CategoryCarousel = ({ category, items }) => {
   );
 };
 
-
-type Entity = {
-  name: string;
-  servicios: string[];
-  datos_de_contacto: string[];
-  como_llegar: string[];
-  images: { src: string; alt: string; title: string }[];
-  contact_info: {
-    email: string;
-    website: string;
-  };
-  services: string[];
-  downloaded_images: { src: string; alt: string; title: string }[];
-  entity_index: number;
-  entity_key: string;
-  extended_description: string;
-  events: {
-    event_link: string;
-    image_url: string;
-    image_alt: string;
-    local_image_path: string;
-    title: string;
-    description: string;
-    date: string;
-    location: string;
-  }[];
-  coordinates: [number, number];
-  geocoding_info: {
-    display_name: string;
-    source: string;
-  };
-};
-
-type LocationData = {
-  total_entities: number;
-  entities: Entity[];
-};
-
-type DepartamentoDict = Record<string, Entity[]>;
-
-
 export default function HomePage() {
-  const [locations, setLocations] = useState<Entity[] | DepartamentoDict>([]);
-  const [extendedLocations, setExtendedLocations] = useState<Entity[] | DepartamentoDict>([]);
-  const [sendStatus, setSendStatus] = useState<null | 'success' | 'error'>(null);
+  const [locations, setLocations] = useState([]);
+  const [extendedLocations, setExtendedLocations] = useState([]);
+  const [sendStatus, setSendStatus] = useState(null);
   const [email, setEmail] = useState('');
   const [isSending, setIsSending] = useState(false);
 
@@ -155,15 +112,15 @@ export default function HomePage() {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
-        const data: LocationData = await response.json();
+        const data = await response.json();
         
         // Get favorites from cookies
         const rawFavorites = Cookies.get("favoritos");
-        let favoriteIds: string[] = [];
+        let favoriteIds = [];
         
         try {
           const favorites = rawFavorites ? JSON.parse(decodeURIComponent(rawFavorites)) : [];
-          favoriteIds = favorites.map((fav: {place_id: string}) => fav.place_id);
+          favoriteIds = favorites.map((fav) => fav.place_id);
         } catch (error) {
           console.error('Error parsing favorites:', error);
         }
@@ -199,7 +156,7 @@ export default function HomePage() {
         ];
 
         // Create dictionary to hold locations by departamento
-        const locationsByDepartamento: Record<string, typeof favLocations> = {};
+        const locationsByDepartamento = {};
 
         // Initialize with empty arrays for each departamento
         departamentos.forEach(depto => {
@@ -250,11 +207,14 @@ export default function HomePage() {
   return (
     <main style={{ height: '200vh' }} className='flex flex-col bg-[#a3324e]'>
       <div className='' style={{ width: '100%', height: '50%', position: 'relative' }}>
-        <Image
+        <img
           src="/images/PLANIFICA.jpg"
           alt="Logo"
-          fill
-          className="object-cover"
+          style={{
+            width: '100%',
+            height: '100%',
+            objectFit: 'cover'
+          }}
         />
         <p 
           style={{ 

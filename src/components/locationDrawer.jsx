@@ -14,53 +14,12 @@ L.Icon.Default.mergeOptions({
   shadowUrl: '/images/mappin.png',
 });
 
-type Entity = {
-  name: string;
-  servicios: string[];
-  datos_de_contacto: string[];
-  como_llegar: string[];
-  images: { src: string; alt: string; title: string }[];
-  contact_info: {
-    email: string;
-    website: string;
-  };
-  services: string[];
-  downloaded_images: { src: string; alt: string; title: string }[];
-  entity_index: number;
-  entity_key: string;
-  extended_description: string;
-  events: {
-    event_link: string;
-    image_url: string;
-    image_alt: string;
-    local_image_path: string;
-    title: string;
-    description: string;
-    date: string;
-    location: string;
-  }[];
-  coordinates: [number, number];
-  geocoding_info: {
-    display_name: string;
-    source: string;
-  };
-};
-
-type LocationData = {
-  total_entities: number;
-  entities: Entity[];
-};
-
 const initialView = {
-  center: [-33.0, -56.0] as [number, number],
+  center: [-33.0, -56.0],
   zoom: 7
 };
 
-function ChangeView({ center, zoom, duration = 2000 }: { 
-  center: [number, number]; 
-  zoom: number;
-  duration?: number;
-}) {
+function ChangeView({ center, zoom, duration = 2000 }) {
   const map = useMap();
   
   useEffect(() => {
@@ -77,9 +36,8 @@ function ChangeView({ center, zoom, duration = 2000 }: {
 export default function LocationDrawer({
   activeLocation,
   locations,
-  handleLocationClick,
+  handleLocationClick
 }) {
-
   return (
     <div className="flex relative h-full min-h-[90vh] w-[20%]">
       {/* Permanent Left Drawer */}
@@ -88,7 +46,7 @@ export default function LocationDrawer({
           <h3 className="mt-0 mb-6 text-[30px] font-semibold text-[#722F37] uppercase">Bodegas Y Viñedos </h3>
           <Link
             href={'/enot-planifica'}
-            className={`relative z-[10] text-sm cursor-pointer transition-colors py-2 text-black hover:text-orange-400`}
+            className="relative z-[10] text-sm cursor-pointer transition-colors py-2 text-black hover:text-orange-400"
           >
             <span className="relative z-[10]">
               Ve a tu selección
