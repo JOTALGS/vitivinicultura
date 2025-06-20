@@ -1,0 +1,3680 @@
+{
+  "total_entities": 62,
+  "entities": [
+    {
+      "name": "Altos de la Ballena",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "094240365",
+        "visitas@altodelaballena.com",
+        "www.altodelaballena.com"
+      ],
+      "como_llegar": [
+        "Ruta 12 Km 16",
+        "400 Sierra de la Ballena",
+        "Sierra de la Ballena/Maldonado"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/12/attachments/2",
+          "alt": "Altos de la Ballena Productos.jpg",
+          "title": "Altos de la Ballena Productos.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/12/attachments/3",
+          "alt": "Altos de la Ballena vista al restaurante.jpg",
+          "title": "Altos de la Ballena vista al restaurante.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/12/attachments/4",
+          "alt": "Altos de la Ballena vista al restaurante 2.jpg",
+          "title": "Altos de la Ballena vista al restaurante 2.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "visitas@altodelaballena.com",
+        "website": "altodelaballena.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Altos_de_la_Ballena_Productos.jpg",
+          "alt": "Altos de la Ballena Productos.jpg",
+          "title": "Altos de la Ballena Productos.jpg"
+        },
+        {
+          "src": "Altos_de_la_Ballena_vista_al_restaurante.jpg",
+          "alt": "Altos de la Ballena vista al restaurante.jpg",
+          "title": "Altos de la Ballena vista al restaurante.jpg"
+        },
+        {
+          "src": "Altos_de_la_Ballena_vista_al_restaurante_2.jpg",
+          "alt": "Altos de la Ballena vista al restaurante 2.jpg",
+          "title": "Altos de la Ballena vista al restaurante 2.jpg"
+        }
+      ],
+      "entity_index": 0,
+      "entity_key": "b0e2d7fd9dcdeb3781dfa7c6061ee520",
+      "extended_description": "Alto de la Ballena es una pequeña bodega que definió nuevos rumbos en la vitivinicultura uruguaya, iniciando sus plantaciones en el año 2001. Enclavada en la Sierra de la Ballena, a 15 kilómetros de la costa, conjuga aires oceánicos y suelos serranos. Son algo más de 8 hectáreas de Merlot, Tannat, Cabernet Franc, Syrah y Viognier, para una producción limitada de vinos de alta calidad. Y con especial énfasis en enoturismo.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-alto-de-la-ballena-tannat-cordero/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/f059ff9c5f3d6f25111a7ae9ce9e8182f7078aaa.jpg",
+          "image_alt": "BODEGA ALTO DE LA BALLENA: TANNAT & CORDERO",
+          "local_image_path": "bodega_images\\BODEGA_ALTO_DE_LA_BALLENA_TANNAT__CORDERO.jpg",
+          "title": "BODEGA ALTO DE LA BALLENA: TANNAT & CORDERO",
+          "description": "",
+          "date": "14/06/2025",
+          "location": "Ruta 12 km 16,400 Sierra de la Ballena"
+        }
+      ],
+      "coordinates": [-34.74326700353751, -55.02240993743255],
+      "geocoding_info": null
+    },
+    {
+      "name": "ANGEL FALLABRINO",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "23200112",
+        "fallabrino@montevideo.com.uy"
+      ],
+      "como_llegar": [
+        "Hudson 5425",
+        "Colon - Montevideo"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/71/attachments/77",
+          "alt": "ANGEL FALLABRINO.jpg",
+          "title": "ANGEL FALLABRINO.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "fallabrino@montevideo.com.uy",
+        "website": "montevideo.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "ANGEL_FALLABRINO.jpg",
+          "alt": "ANGEL FALLABRINO.jpg",
+          "title": "ANGEL FALLABRINO.jpg"
+        }
+      ],
+      "entity_index": 1,
+      "entity_key": "e8a7a7bc9ceb9b823e3279eff919096e",
+      "extended_description": "",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-angel-fallabrino-noche-de-san-juan-2025/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/76064b2613cb049873a19461d7c18b5296e76cb3.jpg",
+          "image_alt": "BODEGA ANGEL FALLABRINO: NOCHE DE SAN JUAN 2025",
+          "local_image_path": "bodega_images\\BODEGA_ANGEL_FALLABRINO_NOCHE_DE_SAN_JUAN_2025.jpg",
+          "title": "BODEGA ANGEL FALLABRINO: NOCHE DE SAN JUAN 2025",
+          "description": "",
+          "date": "22/06/2025",
+          "location": "Hudson 5425 Colón - Melilla Montevideo"
+        }
+      ],
+      "coordinates": [
+        -34.8092938,
+        -56.2179254
+      ],
+      "geocoding_info": {
+        "display_name": "5415,5419,5425, Hudson, Pueblo Ferrocarril, Colón, Montevideo, 12900, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "ANTIGUA BODEGA",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "23622137-",
+        "099976959",
+        "turismo@antiguabodegastagnari.com.uy",
+        "www.antiguabodegastagnari.com.uy"
+      ],
+      "como_llegar": [
+        "Jose Aldabalde s/n La Paz",
+        "Santos Lugares/Canelones",
+        "Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/1/attachments/9",
+          "alt": "ANTIGUA BODEGA.jpg",
+          "title": "ANTIGUA BODEGA.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "turismo@antiguabodegastagnari.com.uy",
+        "website": "antiguabodegastagnari.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "ANTIGUA_BODEGA.jpg",
+          "alt": "ANTIGUA BODEGA.jpg",
+          "title": "ANTIGUA BODEGA.jpg"
+        }
+      ],
+      "entity_index": 2,
+      "entity_key": "03faf35ae5d591b378f41ec7cab71a5f",
+      "extended_description": "A partir de una Antigua Bodega familiar  ubicada en Santos Lugares Canelones construida en 1928, se elaboran vinos modernos, dotados de finura y gran encanto . Virginia Stagnari Directora , sus hijos Mariana y Carlos jóvenes talentos que junto a Laura Casella profesional reconocida por su trayectoria en el mundo del vino, dan forma a la cara actual de esta bodega y el estilo de sus vinos. ​Los viñedos están ubicados en Santos Lugares, La Paz, donde el terroir es muy especial ya que la bodega  está rodeada de canteras de piedra. En este terruño privilegiado las vides encuentran suelos rústicos y pedregosos de buen drenaje favoreciendo la intensidad, concentración y aroma de las uvas y el vino. Su suelo arcillo arenoso de escasa profundidad  descansa sobre un lecho de roca  compuesto por granito rosa en descomposición natural  de unos 500 a 600 millones de años  de antigüedad. Este tipo de granito rosa sólo existe en esta región de Santos Lugares. Los Tannat y Merlot de Antigua Bodega son el resultado del concepto Terroir: “inspiración de jóvenes talentos, lecho de roca ,clima de  gran amplitud térmica y luminosidad\"",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/antigua-bodega-fogata-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/548adb2af776f9bc1e8fea42080f6f6264a7d7e5.jpg",
+          "image_alt": "ANTIGUA BODEGA: FOGATA DE SAN JUAN",
+          "local_image_path": "bodega_images\\ANTIGUA_BODEGA_FOGATA_DE_SAN_JUAN.jpg",
+          "title": "ANTIGUA BODEGA: FOGATA DE SAN JUAN",
+          "description": "",
+          "date": "21/06/2025",
+          "location": "Ruta 5, km 20 Santos Lugares Canelones"
+        }
+      ],
+      "coordinates": [-34.74346927105636, -56.26868559641664],
+      "geocoding_info": null
+    },
+    {
+      "name": "Ariano Hermanos",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "099451162",
+        "sabrina@arianohermanos.com",
+        "www.arianohermanos.com.uy"
+      ],
+      "como_llegar": [
+        "RUTA 48 KM 15 CNO ARIANO",
+        "EL COLORADO / CANELONES"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/92/attachments/139",
+          "alt": "thumbnail_image0.jpg",
+          "title": "thumbnail_image0.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/92/attachments/140",
+          "alt": "bodega  007.jpg",
+          "title": "bodega  007.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/92/attachments/141",
+          "alt": "barriles con cartel.JPG",
+          "title": "barriles con cartel.JPG"
+        }
+      ],
+      "contact_info": {
+        "email": "sabrina@arianohermanos.com",
+        "website": "arianohermanos.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "thumbnail_image0.jpg",
+          "alt": "thumbnail_image0.jpg",
+          "title": "thumbnail_image0.jpg"
+        },
+        {
+          "src": "bodega__007.jpg",
+          "alt": "bodega  007.jpg",
+          "title": "bodega  007.jpg"
+        },
+        {
+          "src": "barriles_con_cartel.JPG",
+          "alt": "barriles con cartel.JPG",
+          "title": "barriles con cartel.JPG"
+        }
+      ],
+      "entity_index": 3,
+      "entity_key": "0fa9a7ffea0e3c4b335254f33f205e76",
+      "extended_description": "Bodega familiar fundada en 1929 por Inmigrantes Italianos, actualmente dirigida por la cuarta generación. Produce vinos de excelentísima calidad comercializados en el país y en el exterior. Ubicada a tan solo 20 km del puerto de Montevideo, ofrece visitas guiadas y venta al publico.",
+      "events": [],
+      "coordinates": [-34.68798611945032, -56.27137043086733],
+      "geocoding_info": null
+    },
+    {
+      "name": "ARTESANA WINERY",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "094130442",
+        "turismo@artesanawinery.com",
+        "www.artesanawinery.com"
+      ],
+      "como_llegar": [
+        "Ruta 48 Km 3.600 Las Brujas",
+        "Las Brujas/Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/3/attachments/6",
+          "alt": "Artesana-Vineyard-Sign-900x600.png",
+          "title": "Artesana-Vineyard-Sign-900x600.png"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/3/attachments/10",
+          "alt": "ARTESANA WINERY.jpg",
+          "title": "ARTESANA WINERY.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "turismo@artesanawinery.com",
+        "website": "artesanawinery.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Artesana-Vineyard-Sign-900x600.png",
+          "alt": "Artesana-Vineyard-Sign-900x600.png",
+          "title": "Artesana-Vineyard-Sign-900x600.png"
+        },
+        {
+          "src": "ARTESANA_WINERY.jpg",
+          "alt": "ARTESANA WINERY.jpg",
+          "title": "ARTESANA WINERY.jpg"
+        }
+      ],
+      "entity_index": 4,
+      "entity_key": "736034c9d8029994d32470e84f923dc2",
+      "extended_description": "Bodega boutique y enoturistica ubicada dentro del área protegida de los humedales del Santa Lucía, en la región de Las Brujas, a 35 Km del centro de Montevideo. Con sus 8 hectáreas de viñedos se trabajan los mismos a baja produción produciendo solo vinos de alta calidad. Contamos con una hectárea de Zinfandel, única en Uruguay.",
+      "events": [],
+      "coordinates": [-34.6729470413181, -56.36783905092522],
+      "geocoding_info": null
+    },
+    {
+      "name": "BODEGA BERETTA",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "23233087/097037534",
+        "bodegaberetta@gmail.com"
+      ],
+      "como_llegar": [
+        "Camino La Renga 2443 Melilla",
+        "Melilla/Montevideo"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/13/attachments/52",
+          "alt": "BODEGA BERETTA-crop.jpg",
+          "title": "BODEGA BERETTA-crop.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "bodegaberetta@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_BERETTA-crop.jpg",
+          "alt": "BODEGA BERETTA-crop.jpg",
+          "title": "BODEGA BERETTA-crop.jpg"
+        }
+      ],
+      "entity_index": 5,
+      "entity_key": "da437546cbbce216b825e8fed21b7f4d",
+      "extended_description": "Bodega & Viñedos Beretta es una empresa Familiar dirigida por sus dueños y enfocada a la producción de vinos de calidad, estos son  elaborados con uvas propias y adquiridas de diferentes terruños con micro climas similares en el Sur de Uruguay. Historia que se inició en 1913, dónde Antonio Beretta emigrante Italiano se radica en la zona de Melilla área rural de Montevideo capital de nuestro País. Hoy nuestras líneas de vino obtenidas son de categoría de  Vinos Finos y Vinos de Mesa, dónde se busca mantener las antiguas tradiciones de la bodega junto con los avances tecnológicos actuales.",
+      "events": [],
+      "coordinates": [-34.779024638571954, -56.247730160800785],
+      "geocoding_info": null
+    },
+    {
+      "name": "BODEGA BOUZA",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "23234030",
+        "visitas@bodegabouza.com",
+        "www.bodegabouza.com"
+      ],
+      "como_llegar": [
+        "Camino La Redencion 7658 bis Melilla",
+        "Melilla/Montevideo"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/24/attachments/12",
+          "alt": "BODEGA BOUZA.jpg",
+          "title": "BODEGA BOUZA.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "visitas@bodegabouza.com",
+        "website": "bodegabouza.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_BOUZA.jpg",
+          "alt": "BODEGA BOUZA.jpg",
+          "title": "BODEGA BOUZA.jpg"
+        }
+      ],
+      "entity_index": 6,
+      "entity_key": "15cac272f05d2df73a35d82bb2176ec2",
+      "extended_description": "Nuestra bodega nace como un emprendimiento familiar. En nuestro caso, impulsado por el amor hacia el campo y sus frutos. Crecimos de la mano de una premisa fundamental: el trabajo a pequeña escala ofrece siempre mejores resultados. Para lograrlo, cuidamos y seguimos todo el proceso celosamente, desde el viñedo hasta la copa. Creemos que este es el camino para, a largo plazo, reflejar en nuestros vinos la personalidad que nos identifica.",
+      "events": [],
+      "coordinates": [
+        -34.7913199,
+        -56.2767495
+      ],
+      "geocoding_info": {
+        "display_name": "Bouza Bodega Boutique, 7658 Bis, Camino de la Redención, Melilla, Montevideo, 12500, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA CASTILLO VIEJO",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "098212201",
+        "turismo@castilloviejo.com",
+        "www.castilloviejo.com"
+      ],
+      "como_llegar": [
+        "Ruta 68 km 24 Las Piedras",
+        "Las Piedras/Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/4/attachments/17",
+          "alt": "BODEGA CASTILLO VIEJO.jpg",
+          "title": "BODEGA CASTILLO VIEJO.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "turismo@castilloviejo.com",
+        "website": "castilloviejo.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_CASTILLO_VIEJO.jpg",
+          "alt": "BODEGA CASTILLO VIEJO.jpg",
+          "title": "BODEGA CASTILLO VIEJO.jpg"
+        }
+      ],
+      "entity_index": 7,
+      "entity_key": "1fbc88d3dedd390896077fea45b9c5e8",
+      "extended_description": "Proveniente del seno de una emprendedora familia vasca de la localidad de Hasparren, Don Santos Etcheverry, fundador de Bodegas Castillo Viejo, sembró una filosofía de dedicación y esfuerzo que hoy continúa presente en la tercera y cuarta generación, y se resume en el simple pero marcado concepto que nos define: dar de lo nuestro lo mejor. En Bodegas Castillo Viejo visión y tradición se conjugan para entregar siempre excelencia, nobleza y calidad en vinos finos. La capacidad de producción total de bodega es de 50.000 cajas anuales de vinos finos. Mediante un laboratorio equipado con tecnología de última generación, controlamos en forma rigurosa todo el proceso de producción. Desde la temperatura durante la fermentación, que en los vinos Blancos debe ser menor a 16° C y en los tintos menor a 29° C, hasta los trabajos posteriores de decantación, estabilización tartárica y filtración en el momento de envasado. También se realizan análisis físicos y sensoriales del vino en forma continua. Con una temperatura estable todo el año, nuestra cava subterránea alberga las barricas de roble. El uso de estas barricas es una vieja tradición que Bodegas Castillo Viejo continúa como un arte para transmitir aromas y sabores al vino, mejorando su bouquet y enalteciendo su alma. Las barricas de origen francés y americano, provenientes de diferentes bosques, presentan tostados de medios a fuertes, aportando exquisitas complejidades que otorgan al húesped la excelencia, expresión, elegancia y personalidad que buscamos para diferenciar cada uno de nuestros grandes vinos.",
+      "events": [],
+      "coordinates": [
+        -34.70556,
+        -56.1792589
+      ],
+      "geocoding_info": {
+        "display_name": "Bodega Castillo Viejo, Km 24, Ruta 68, Ruta 67 (Barrio Campistegui), 18 de Mayo, Municipio de Las Piedras, Canelones, 90300, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA CERRO CHAPEU",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "098844944",
+        "visitas@cerrochapeu.com",
+        "www.cerrochapeu.com"
+      ],
+      "como_llegar": [
+        "Camino linea divisoria s/n Cerro Chapeu",
+        "Cerro Chapeu/Rivera"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/17/attachments/18",
+          "alt": "BODEGA CERRO CHAPEU.jpg",
+          "title": "BODEGA CERRO CHAPEU.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "visitas@cerrochapeu.com",
+        "website": "cerrochapeu.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_CERRO_CHAPEU.jpg",
+          "alt": "BODEGA CERRO CHAPEU.jpg",
+          "title": "BODEGA CERRO CHAPEU.jpg"
+        }
+      ],
+      "entity_index": 8,
+      "entity_key": "a59ec77e25b2e9a30b43e5c47778519f",
+      "extended_description": "Una bodega familiar en un bioma único. Nuestros viñedos se encuentran ubicados en los suelos rojos, profundos y arenosos de Cerro Chapeu, en el departamento de Rivera. La bodega construida dentro de un cerro se apoya en la gravedad para aplicar la vinificación de mínima intervención.",
+      "events": [],
+      "coordinates": [-30.977207113881786, -55.44551444559576],
+      "geocoding_info": null
+    },
+    {
+      "name": "EL LEGADO",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "099111493",
+        "info@bodegaellegado.com.uy",
+        "http://www.bodegaellegado.com.uy/"
+      ],
+      "como_llegar": [
+        "Ramal Ruta 97",
+        "Colonia Estrella_Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/47/attachments/37",
+          "alt": "EL LEGADO.jpg",
+          "title": "EL LEGADO.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "info@bodegaellegado.com.uy",
+        "website": "bodegaellegado.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "EL_LEGADO.jpg",
+          "alt": "EL LEGADO.jpg",
+          "title": "EL LEGADO.jpg"
+        }
+      ],
+      "entity_index": 9,
+      "entity_key": "eb63dc3d41b8ac48ee30f732e9293f4f",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [
+        -33.9491332,
+        -58.2817
+      ],
+      "geocoding_info": {
+        "display_name": "Bodega Boutique El Legado, Doctor Eduardo Irastorza, Colonia, 70100, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "FAMILIA DARDANELLI",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "091691640",
+        "contacto@familiadardanelli.com.uy",
+        "www.familiadardanelli.com.uy"
+      ],
+      "como_llegar": [
+        "Camino de los molinos 3242",
+        "Cuchilla Pereyra_Montevideo"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/39/attachments/38",
+          "alt": "FAMILIA DARDANELLI.jpg",
+          "title": "FAMILIA DARDANELLI.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "contacto@familiadardanelli.com.uy",
+        "website": "familiadardanelli.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "FAMILIA_DARDANELLI.jpg",
+          "alt": "FAMILIA DARDANELLI.jpg",
+          "title": "FAMILIA DARDANELLI.jpg"
+        }
+      ],
+      "entity_index": 10,
+      "entity_key": "ae38d65755cd022c311841cc9500c410",
+      "extended_description": "HISTORIA FAMILIAR Y TRADICIÓN La bodega fue fundada en 1949 por Constante Dardanelli, años más tarde su primer hijo, Dino Dardanelli comenzó una nueva forma en la producción de vino junto a sus  hermanos y hermanas. Fue el creador de esta empresa 100% familiar, en donde hoy en día se encuentran trabajando juntos la segunda, tercera y cuarta generación. Ubicada en la calle Camino de los Molinos, en el departamento de Montevideo, a tan solo unos 30 minutos del centro de la capital, conjugamos la pasión familiar, con la tradición y las innovaciones de las generaciones mas nuevas. Como bodega, nuestro objetivo es brindar una experiencia completa, que cada botella transmita nuestro trabajo y que el vino forme parte de un disfrute. Buscamos ser innovadores y creadores de nuevas formas de hacer vino, sin dejar atrás lo que nuestros abuelos nos enseñaron, quienes fueron y serán nuestros ejemplos a seguir.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-familia-dardanelli-fiesta-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/45c11852a5cc174ef647e2db77cd6392e4749138.jpg",
+          "image_alt": "BODEGA FAMILIA DARDANELLI: FIESTA DE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_FAMILIA_DARDANELLI_FIESTA_DE_SAN_JUAN.jpg",
+          "title": "BODEGA FAMILIA DARDANELLI: FIESTA DE SAN JUAN",
+          "description": "",
+          "date": "21/06/2025",
+          "location": "Camino de Los Molinos 3242, 12400 Montevideo,"
+        }
+      ],
+      "coordinates": [-34.743534732933284, -56.208777989638534],
+      "geocoding_info": null
+    },
+    {
+      "name": "FAMILICA DEICAS",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598) 94847482",
+        "43359725",
+        "info@familiadeicas.com",
+        "www.familiadeicas.com"
+      ],
+      "como_llegar": [
+        "Ruta 5 km 38.200",
+        "Juanico- Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://www.inavi.com.uy/uploads/bodega/3039e1be04ef20bd6cf3a42238c11f14ffa4186e.jpg",
+          "alt": "FAMILIA DEICAS.jpg",
+          "title": "FAMILIA DEICAS.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "info@familiadeicas.com",
+        "website": "familiadeicas.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [],
+      "entity_index": 11,
+      "entity_key": "849e6e795e3d5beae51e7deff3771c19",
+      "extended_description": "Bodega Famila Deicas nace con la  búsqueda por diferentes regiones de Uruguay, para encontrar lugares que, combinados con la experiencia y un minucioso trabajo, fueran capaces de producir vinos con las características que nuestra bodega exigía. La constancia por innovar solo tiene un fin, generar prestigio al vino uruguayo para ser reconocido como un país referente en la vitivinicultura. Bodega Familia Deicas es el impulsor de los vinos atlánticos de Sudamérica, resaltando el recurso natural más importante de nuestro país.",
+      "events": [],
+      "coordinates": [-34.58753539450058, -56.25064597791056],
+      "geocoding_info": null
+    },
+    {
+      "name": "BODEGA FAMILIA IRURTIA",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "98874281",
+        "contacto@irurtia.com",
+        "www.irurtia.com.uy"
+      ],
+      "como_llegar": [
+        "Ruta 97 km. 2.300 Carmelo",
+        "Carmelo_Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/45/attachments/20",
+          "alt": "BODEGA FAMILIA IRURTIA.jpg",
+          "title": "BODEGA FAMILIA IRURTIA.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "contacto@irurtia.com",
+        "website": "irurtia.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_FAMILIA_IRURTIA.jpg",
+          "alt": "BODEGA FAMILIA IRURTIA.jpg",
+          "title": "BODEGA FAMILIA IRURTIA.jpg"
+        }
+      ],
+      "entity_index": 12,
+      "entity_key": "e8912dccdfeacd820c0c1401e9adee04",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [
+        -33.9905044,
+        -58.2597587
+      ],
+      "geocoding_info": {
+        "display_name": "Bodega Familia Irurtia, Ingeniero Químico Dante Irurtia, Colonia, 70100, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA FAMILIA MOIZO",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "43359686",
+        "/",
+        "099615400",
+        "info@bodegamoizo.com",
+        "www.bodegamoizo.com"
+      ],
+      "como_llegar": [
+        "Ruta 5 km.34.200 Camino Albatros",
+        "Progreso/Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/27/attachments/21",
+          "alt": "BODEGA FAMILIA MOIZO.jpg",
+          "title": "BODEGA FAMILIA MOIZO.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "info@bodegamoizo.com",
+        "website": "bodegamoizo.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_FAMILIA_MOIZO.jpg",
+          "alt": "BODEGA FAMILIA MOIZO.jpg",
+          "title": "BODEGA FAMILIA MOIZO.jpg"
+        }
+      ],
+      "entity_index": 13,
+      "entity_key": "26664eb2fa4e5a54dd730cb79fe0d598",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.625984402511484, -56.24880981662484],
+      "geocoding_info": null
+    },
+    {
+      "name": "CASA FILGUEIRA",
+      "servicios": [
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "091605027",
+        "experiencia.casafilgueira@gmail.com",
+        "https://www.instagram.com/casa.filgueira.uy?igsh=MXh4bGw1cjh2YnVhMQ=="
+      ],
+      "como_llegar": [
+        "Ruta 81 Km 6",
+        "500",
+        "CANELONES"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/99/attachments/166",
+          "alt": "Logo.png",
+          "title": "Logo.png"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/99/attachments/167",
+          "alt": "fOTO 1.jpeg",
+          "title": "fOTO 1.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/99/attachments/168",
+          "alt": "foto 4.jpg",
+          "title": "foto 4.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/99/attachments/169",
+          "alt": "foto 3.jpg",
+          "title": "foto 3.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "experiencia.casafilgueira@gmail.com",
+        "website": "experiencia.casafilgueira"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Logo.png",
+          "alt": "Logo.png",
+          "title": "Logo.png"
+        },
+        {
+          "src": "fOTO_1.jpeg",
+          "alt": "fOTO 1.jpeg",
+          "title": "fOTO 1.jpeg"
+        },
+        {
+          "src": "foto_4.jpg",
+          "alt": "foto 4.jpg",
+          "title": "foto 4.jpg"
+        },
+        {
+          "src": "foto_3.jpg",
+          "alt": "foto 3.jpg",
+          "title": "foto 3.jpg"
+        }
+      ],
+      "entity_index": 14,
+      "entity_key": "a49fe8561f1c35fffcea8b5ac67dedfd",
+      "extended_description": "",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/casa-filgueira-noche-magica-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/3d1ed1d9e285340207fa722de894ba9f00d20cb1.jpg",
+          "image_alt": "CASA FILGUEIRA: NOCHE MÁGICA DE SAN JUAN",
+          "local_image_path": "bodega_images\\CASA_FILGUEIRA_NOCHE_MÁGICA_DE_SAN_JUAN.jpg",
+          "title": "CASA FILGUEIRA: NOCHE MÁGICA DE SAN JUAN",
+          "description": "",
+          "date": "21/06/2025",
+          "location": "Ruta 81 km 6,500 Santa Lucía Canelones"
+        }
+      ],
+      "coordinates": [-34.432001536960065, -56.319778864417884],
+      "geocoding_info": {
+        "display_name": "Ruta 81, Canelones, 91003, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA FRIPP",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)",
+        "099",
+        "935",
+        "861",
+        "beafripp@gmail.com"
+      ],
+      "como_llegar": [
+        "Ruta 21 km. 217",
+        "Carmelo / Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/62/attachments/62",
+          "alt": "BODEGA FRIPP.jpg",
+          "title": "BODEGA FRIPP.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "beafripp@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_FRIPP.jpg",
+          "alt": "BODEGA FRIPP.jpg",
+          "title": "BODEGA FRIPP.jpg"
+        }
+      ],
+      "entity_index": 15,
+      "entity_key": "b1974a8ae1fec3612d9d42ae84db0112",
+      "extended_description": "Empresa Familiar con espíritu joven y emprendedor dedicados a trabajar con pasión para llevar los mejores vinos a tu mesa.",
+      "events": [],
+      "coordinates": [-34.14459415111404, -57.964586650925234],
+      "geocoding_info": {
+        "display_name": "Ruta 21, Carmelo, Colonia, 70100, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA GARZÓN",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "42241759/42244040",
+        "reservas@experienciasgarzon.com",
+        "www.bodegagarzon.com"
+      ],
+      "como_llegar": [
+        "Ruta 9 km. 175 Garzon",
+        "Garzón/Maldonado"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/22/attachments/11",
+          "alt": "BODEGA GARZÓN.jpg",
+          "title": "BODEGA GARZÓN.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "reservas@experienciasgarzon.com",
+        "website": "experienciasgarzon.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_GARZÓN.jpg",
+          "alt": "BODEGA GARZÓN.jpg",
+          "title": "BODEGA GARZÓN.jpg"
+        }
+      ],
+      "entity_index": 16,
+      "entity_key": "34e64c0fe73ffb30840b4c3c31f90ba6",
+      "extended_description": "Emplazada sobre terrazas naturales y construida en la sierra, la bodega posee un diseño escalonado que permite utilizar el sistema de gravedad para la producción de vinos finos de máxima calidad. La eficiencia de las instalaciones optimiza el recurso energético al mismo tiempo que se genera energía eólica y fotovoltaica.El edificio de 19.050 m2 posee 2,2 millones de litros de capacidad y es la primera bodega sustentable fuera de Norte América con certificación LEED (Leadership in Energy & Environmental Design).Alejandro P. Bulgheroni“Nuestro objetivo es hacer vinos de máxima calidad con fuerte identidad, gran personalidad y un profundo sentido del lugar. Hacemos vinos de alta gama que serán reconocidos en todo el mundo”.Con el asesoramiento del enólogo internacional Alberto Antonini aplican su filosofía que gira en torno a la elaboración de vinos que se convierten en la expresión de su origen. Completan el equipo, especialistas en vitivinicultura y cuidado del medioambiente, gastronomía, hospitality y turismo.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-garzon-fuegos-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/aefb7d67eb79fdfa527798e2aa10048222738ad2.jpg",
+          "image_alt": "BODEGA GARZÓN: FUEGOS DE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_GARZÓN_FUEGOS_DE_SAN_JUAN.jpg",
+          "title": "BODEGA GARZÓN: FUEGOS DE SAN JUAN",
+          "description": "",
+          "date": "21/06/2025",
+          "location": "Ruta 9 km. 175 Garzón Maldonado"
+        }
+      ],
+      "coordinates": [
+        -34.5685824,
+        -54.6284137
+      ],
+      "geocoding_info": {
+        "display_name": "Bodega Garzón, Camino al Paso de la Cantera, Maldonado, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "HACIENDA DEL SACRAMENTO",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "+598",
+        "92",
+        "120",
+        "800",
+        "reservas@haciendadelsacramento.com",
+        "www.haciendadelsacramento.com"
+      ],
+      "como_llegar": [
+        "Ruta 50 km.6",
+        "Riachuelo",
+        "Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/64/attachments/153",
+          "alt": "Foto 1 - Bodega.png",
+          "title": "Foto 1 - Bodega.png"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/64/attachments/154",
+          "alt": "Foto 2 - Vinedos.jpg",
+          "title": "Foto 2 - Vinedos.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/64/attachments/155",
+          "alt": "Foto 3 - Vinos.jpg",
+          "title": "Foto 3 - Vinos.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "reservas@haciendadelsacramento.com",
+        "website": "haciendadelsacramento.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Foto_1_-_Bodega.png",
+          "alt": "Foto 1 - Bodega.png",
+          "title": "Foto 1 - Bodega.png"
+        },
+        {
+          "src": "Foto_2_-_Vinedos.jpg",
+          "alt": "Foto 2 - Vinedos.jpg",
+          "title": "Foto 2 - Vinedos.jpg"
+        },
+        {
+          "src": "Foto_3_-_Vinos.jpg",
+          "alt": "Foto 3 - Vinos.jpg",
+          "title": "Foto 3 - Vinos.jpg"
+        }
+      ],
+      "entity_index": 17,
+      "entity_key": "521e1f5bae184fb52bc7c9ed4d24185d",
+      "extended_description": "Bodega Boutique que elabora vinos finos priorizando la calidad de estos y resaltando la expresión varietal de cada una de sus uvas con el suave y distinguido sabor del terruño de Colonia. La calidad de sus vinos ha sido reconocida internacionalmente por varios de los mejores especialistas de la industria vitivinícola, obteniendo premios y reconocimientos. Vinos “Hacienda del Sacramento” afianzan lazos creando momentos perdurables.",
+      "events": [],
+      "coordinates": [-34.379868389729985, -57.71651789943426],
+      "geocoding_info": null
+    },
+    {
+      "name": "BODEGA OCEÁNICA JOSÉ IGNACIO",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "27122979/097380611",
+        "visitas@ojoseignacio.com",
+        "www.ojoseignacio.com"
+      ],
+      "como_llegar": [
+        "Ruta 9 km. 157 José Ignacio",
+        "José Ignacio/Maldonado"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/23/attachments/31",
+          "alt": "BODEGA OCEÁNICA JOSÉ IGNACIO.jpg",
+          "title": "BODEGA OCEÁNICA JOSÉ IGNACIO.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "visitas@ojoseignacio.com",
+        "website": "ojoseignacio.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_OCEÁNICA_JOSÉ_IGNACIO.jpg",
+          "alt": "BODEGA OCEÁNICA JOSÉ IGNACIO.jpg",
+          "title": "BODEGA OCEÁNICA JOSÉ IGNACIO.jpg"
+        }
+      ],
+      "entity_index": 18,
+      "entity_key": "28d08f3c1ab9d1b508c5fd2679e09b24",
+      "extended_description": "En un marco de sencillez y distinción como es José Ignacio, crece la vida en la finca, en un enclave natural genuino. La filosofía de Bodega Oceánica Jose Ignacio se asienta en transmitir un sentido de lugar; del alma de nuestra tierra a su copa. El diseño arquitectónico se orienta hacia el cielo; la brisa oceánica de José Ignacio aporta vitalidad a los cultivos; las piezas de arte inspiran sustancialmente el carácter de la finca. Los viñedos se ubican a 7 kms del Océano Atlantico, las vides crecen sobre las suaves colinas, siempre ventiladas por el aire oceánico, elemento vital para el sano desarrollo de los frutos y la buena acidez de nuestros vinos.  Todos los procesos vitivinícolas son hechos a mano con gran cuidado. Agricultura de detalle, compromiso con el medio ambiente y trabajo en equipo sumados a la afición por el arte y la arquitectura de avanzada hacen a nuestro propósito, la satisfacción de experimentar y ofrecer sensaciones trascendentales.",
+      "events": [],
+      "coordinates": [-34.756037623634874, -54.72173041847431],
+      "geocoding_info": null
+    },
+    {
+      "name": "BODEGA ROVERE",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "098522361/099522537",
+        "tamararovere@hotmail.com",
+        "https://es-la.facebook.com"
+      ],
+      "como_llegar": [
+        "Camino Jose Ignacio s/n",
+        "San Jose de Mayo/San José"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/29/attachments/33",
+          "alt": "BODEGA ROVERE.jpg",
+          "title": "BODEGA ROVERE.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "tamararovere@hotmail.com",
+        "website": "hotmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_ROVERE.jpg",
+          "alt": "BODEGA ROVERE.jpg",
+          "title": "BODEGA ROVERE.jpg"
+        }
+      ],
+      "entity_index": 19,
+      "entity_key": "1e372dae808f030ba496018cad08858c",
+      "extended_description": "Bodega familiar pequeña con una capacidad de casi se 370000litros. Somos lacuartageneración.Surge de nuestro bisabuelo paterno emigrante de Italia.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-rovere-fiesta-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/1f9de3d093d34708d6f26fc3c910fb3436e4c414.jpg",
+          "image_alt": "BODEGA ROVERE: FIESTA DE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_ROVERE_FIESTA_DE_SAN_JUAN.jpg",
+          "title": "BODEGA ROVERE: FIESTA DE SAN JUAN",
+          "description": "",
+          "date": "20/06/2025",
+          "location": "Camino José Ignacio Paraje Bañado, San José"
+        }
+      ],
+      "coordinates": [-34.394411740147184, -56.67128662208944],
+      "geocoding_info": null
+    },
+    {
+      "name": "RESERVAS SACROMONTE",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "095910150",
+        "reservas@sacromonte.com",
+        "https://www.sacromonte.com/"
+      ],
+      "como_llegar": [
+        "Ruta 8 Km 17",
+        "Jacksonville/Montevideo",
+        "Montevideo"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/95/attachments/150",
+          "alt": "logo Sacromonte png.png",
+          "title": "logo Sacromonte png.png"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/95/attachments/151",
+          "alt": "Bodega.Zonamerica-Sacromonte-25.jpg",
+          "title": "Bodega.Zonamerica-Sacromonte-25.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/95/attachments/152",
+          "alt": "Bodega.Zonamerica-Sacromonte-16.jpg",
+          "title": "Bodega.Zonamerica-Sacromonte-16.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "reservas@sacromonte.com",
+        "website": "sacromonte.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "logo_Sacromonte_png.png",
+          "alt": "logo Sacromonte png.png",
+          "title": "logo Sacromonte png.png"
+        },
+        {
+          "src": "Bodega.Zonamerica-Sacromonte-25.jpg",
+          "alt": "Bodega.Zonamerica-Sacromonte-25.jpg",
+          "title": "Bodega.Zonamerica-Sacromonte-25.jpg"
+        },
+        {
+          "src": "Bodega.Zonamerica-Sacromonte-16.jpg",
+          "alt": "Bodega.Zonamerica-Sacromonte-16.jpg",
+          "title": "Bodega.Zonamerica-Sacromonte-16.jpg"
+        }
+      ],
+      "entity_index": 20,
+      "entity_key": "d0b529495bae77f82a07a329338c052a",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.78422557969156, -56.085931720239],
+      "geocoding_info": null
+    },
+    {
+      "name": "Bodega Salto Chico",
+      "servicios": [
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "099655465",
+        "cfbroglio@gmail.com",
+        "www.saltochico.com.uy"
+      ],
+      "como_llegar": [
+        "Colonia Osimani",
+        "sobre la costa del Río Uruguay, 7 km al norte de la ciudad de Salto Colonia Osimani",
+        "COLONIA OSIMANI"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/88/attachments/128",
+          "alt": "Bodega Salto Chico_botella.png",
+          "title": "Bodega Salto Chico_botella.png"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/88/attachments/129",
+          "alt": "Bodega Salto Chico_entrada.jpg",
+          "title": "Bodega Salto Chico_entrada.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/88/attachments/130",
+          "alt": "Bodega Salto Chico_viñedos.jpg",
+          "title": "Bodega Salto Chico_viñedos.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "cfbroglio@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Bodega_Salto_Chico_botella.png",
+          "alt": "Bodega Salto Chico_botella.png",
+          "title": "Bodega Salto Chico_botella.png"
+        },
+        {
+          "src": "Bodega_Salto_Chico_entrada.jpg",
+          "alt": "Bodega Salto Chico_entrada.jpg",
+          "title": "Bodega Salto Chico_entrada.jpg"
+        },
+        {
+          "src": "Bodega_Salto_Chico_viñedos.jpg",
+          "alt": "Bodega Salto Chico_viñedos.jpg",
+          "title": "Bodega Salto Chico_viñedos.jpg"
+        }
+      ],
+      "entity_index": 21,
+      "entity_key": "d137ce66aa206eb8b416aad1175ea363",
+      "extended_description": "En Uruguay, en el departamento de Salto y donde Don Pascual Harriague introdujo las primeras cepas Tannat a nuestro país en 1874, están ubicadas nuestras viñas implantadas a partir del año 1999. Ubicación Nuestra parcela se encuentra sobre la costa del Río Uruguay en la zona del \"Salto Chico\", un lugar muy bello y reconocido, de rápidos de agua que se producen a esta altura del río y que dan el nombre a nuestra bodega. Viñas La superficie de nuestro viñedo es de 6 hectáreas de cepas importadas de Europa,  donde predomina la Tannat. Esta implantado en suelos de arena y canto rodado, llena de piedras semipreciosas redondeadas por el trabajo del río de otras épocas, en que su cauce abarcaba nuestra parcela. Con agua mineral natural extraída de dos pozos regamos nuestras vides cuando es necesario. Le pequeña extensión nos permite realiza un manejo del viñedo que no es posible realizar en grandes extensiones, logrando de esta manera una excelente materia prima para lograr los mejores vinos. Bodega Nuestra bodega se encuentra ubicada junto al viñedo y dispone de la tecnología para una óptima vinificación moderna. En la vendimia, las uvas son cosechadas a mano y molidas sobre cubas de acero inoxidable. El seguimiento del proceso de fermentación, el descube y la etapa de crianza en bodega son pasos minuciosamente atendidos, hasta que el vino se encuentra pronto para su degustación.",
+      "events": [],
+      "coordinates": [-31.33396249397605, -57.971198079564495],
+      "geocoding_info": null
+    },
+    {
+      "name": "BODEGA SANTA ROSA",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "23209921-097496777",
+        "visitas@bodegasantarosa.com.uy",
+        "www.bodegasantarosa.com.uy"
+      ],
+      "como_llegar": [
+        "Cesar Mayo Gutierrez 2211",
+        "Montevideo"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/87/attachments/173",
+          "alt": "1.jpg",
+          "title": "1.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/87/attachments/175",
+          "alt": "Museo_02.jpeg",
+          "title": "Museo_02.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/87/attachments/176",
+          "alt": "Sin título.jpg",
+          "title": "Sin título.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/87/attachments/177",
+          "alt": "Solera_04.jpg",
+          "title": "Solera_04.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/87/attachments/179",
+          "alt": "6.jpeg",
+          "title": "6.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/87/attachments/180",
+          "alt": "9.jpeg",
+          "title": "9.jpeg"
+        }
+      ],
+      "contact_info": {
+        "email": "visitas@bodegasantarosa.com.uy",
+        "website": "bodegasantarosa.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "1.jpg",
+          "alt": "1.jpg",
+          "title": "1.jpg"
+        },
+        {
+          "src": "Museo_02.jpeg",
+          "alt": "Museo_02.jpeg",
+          "title": "Museo_02.jpeg"
+        },
+        {
+          "src": "Sin_título.jpg",
+          "alt": "Sin título.jpg",
+          "title": "Sin título.jpg"
+        },
+        {
+          "src": "Solera_04.jpg",
+          "alt": "Solera_04.jpg",
+          "title": "Solera_04.jpg"
+        },
+        {
+          "src": "6.jpeg",
+          "alt": "6.jpeg",
+          "title": "6.jpeg"
+        },
+        {
+          "src": "9.jpeg",
+          "alt": "9.jpeg",
+          "title": "9.jpeg"
+        }
+      ],
+      "entity_index": 22,
+      "entity_key": "2db6d1657c932a14cc6fb6f7e5bce4f6",
+      "extended_description": "Fundada en 1898 por Don Juan Bautista Passadore, celebrando mas de 125 años de historia ininterrumpida de actividad vitivinícola, Bodega Santa Rosa cuenta con una de las cavas subterráneas en actividad mas grandes del continente, donde se elabora y reposa Fond de Cave. Es un viaje mágico que eleva los sentidos a una nueva dimensión, a solo pocos minutos del centro de Montevideo. La propuesta enoturística se enmarca dentro de las siguientes opciones: * Tours guiados por un enólogo * Tours guiados por un enólogo acompañados por degustación de vinos y picada * Tours guiados por un enólogo acompañados por degustación de vinos y almuerzo de 3 pasos (con diferentes opciones de vinos y comida) * Eventos y shows musicales",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-santa-rosa-noche-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/7a99f690aef1a756f07dc53ab6c8b82b07ed8c65.jpg",
+          "image_alt": "BODEGA SANTA ROSA: NOCHE DE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_SANTA_ROSA_NOCHE_DE_SAN_JUAN.jpg",
+          "title": "BODEGA SANTA ROSA: NOCHE DE SAN JUAN",
+          "description": "",
+          "date": "21/06/2025",
+          "location": "Cesar Mayo Gutiérrez 2211 Colón - Melilla Montevideo"
+        }
+      ],
+      "coordinates": [
+        -34.79568,
+        -56.2246592
+      ],
+      "geocoding_info": {
+        "display_name": "2211, Ruta César Mayo Gutiérrez, Montevideo, 12500, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA SIERRA ORIENTAL",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "099904894",
+        "topwineri@gmail.com"
+      ],
+      "como_llegar": [
+        "Ruta 39 km. 46",
+        "MALDONADO"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/84/attachments/115",
+          "alt": "Sierra Oriental_1.jpg",
+          "title": "Sierra Oriental_1.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/84/attachments/116",
+          "alt": "Sierra Oriental.jpg",
+          "title": "Sierra Oriental.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/84/attachments/117",
+          "alt": "Sierra Oriental_bodega.jpg",
+          "title": "Sierra Oriental_bodega.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "topwineri@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Sierra_Oriental_1.jpg",
+          "alt": "Sierra Oriental_1.jpg",
+          "title": "Sierra Oriental_1.jpg"
+        },
+        {
+          "src": "Sierra_Oriental.jpg",
+          "alt": "Sierra Oriental.jpg",
+          "title": "Sierra Oriental.jpg"
+        },
+        {
+          "src": "Sierra_Oriental_bodega.jpg",
+          "alt": "Sierra Oriental_bodega.jpg",
+          "title": "Sierra Oriental_bodega.jpg"
+        }
+      ],
+      "entity_index": 23,
+      "entity_key": "f43d63b7e783ad22285be3422ca3f2f2",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.53429625380612, -54.72454262208945],
+      "geocoding_info": {
+        "display_name": "Ruta 39, Cañada Aparicio, Maldonado, 20000, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA SPINOGLIO",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "22220400",
+        "-",
+        "091316522",
+        "turismo@bodegaspinoglio.com",
+        "www.bodegaspinoglio.com"
+      ],
+      "como_llegar": [
+        "Avenida Pedro de Mendoza 8238 Montevideo",
+        "Cuchilla Pereira_Montevideo"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/38/attachments/59",
+          "alt": "BODEGA SPINOGLIO.jpg",
+          "title": "BODEGA SPINOGLIO.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "turismo@bodegaspinoglio.com",
+        "website": "bodegaspinoglio.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_SPINOGLIO.jpg",
+          "alt": "BODEGA SPINOGLIO.jpg",
+          "title": "BODEGA SPINOGLIO.jpg"
+        }
+      ],
+      "entity_index": 24,
+      "entity_key": "6abfd5d0717c6eb3ce1b69be9ff1d98f",
+      "extended_description": "Luigi Spinoglio, con orígenes en Casale Monferrato, Piamonte, Italia, llega al Uruguay a finales del siglo XIX con una historia enraizada en la vid y el vino.En 1961 su nieto Angel se instala – asumiendo el establecimiento iniciado por Don José Campomar en 1898 – en la sureña región de Cuchilla Pereyra la cual es considerada, sin reservas, como de máxima aptitud para la vitivinicultura. Hoy una nueva generación continúa apostando a los máximos estándares de calidad con la misma pasión y respeto por esta TIERRA de VINOS.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-spinoglio-hogueras-de-invierno-noche-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/8806a97a513ec467357dc65718b3a958cc53701e.jpg",
+          "image_alt": "BODEGA SPINOGLIO: HOGUERAS DE INVIERNO & NOCHE DE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_SPINOGLIO_HOGUERAS_DE_INVIERNO__NOCHE_DE_SAN_JUAN.jpg",
+          "title": "BODEGA SPINOGLIO: HOGUERAS DE INVIERNO & NOCHE DE SAN JUAN",
+          "description": "",
+          "date": "20/06/2025",
+          "location": "AVDA. PEDRO DE MENDOZA 8238 Peñarol Viejo"
+        }
+      ],
+      "coordinates": [
+        -34.741367,
+        -56.1647451
+      ],
+      "geocoding_info": {
+        "display_name": "Bodega Spinoglio, 8238, Avenida Don Pedro de Mendoza, Puntas de Macadam, Toledo Chico, Montevideo, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA VINOTERRA",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "098885852",
+        "bodegavinoterra@gmail.com",
+        "https://www.instagram.com/bodegavinoterra_uy?igsh=MXB1cWZnMmZ6Ynpseg%3D%3D&utm_source=qr"
+      ],
+      "como_llegar": [
+        "RUTA 90 KM. 13,800",
+        "PAYSANDU"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/100/attachments/170",
+          "alt": "LOGO.jpeg",
+          "title": "LOGO.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/100/attachments/171",
+          "alt": "IMG_6284.jpeg",
+          "title": "IMG_6284.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/100/attachments/172",
+          "alt": "IMG_6362.jpeg",
+          "title": "IMG_6362.jpeg"
+        }
+      ],
+      "contact_info": {
+        "email": "bodegavinoterra@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "LOGO.jpeg",
+          "alt": "LOGO.jpeg",
+          "title": "LOGO.jpeg"
+        },
+        {
+          "src": "IMG_6284.jpeg",
+          "alt": "IMG_6284.jpeg",
+          "title": "IMG_6284.jpeg"
+        },
+        {
+          "src": "IMG_6362.jpeg",
+          "alt": "IMG_6362.jpeg",
+          "title": "IMG_6362.jpeg"
+        }
+      ],
+      "entity_index": 25,
+      "entity_key": "b892a932aae279cf9bcf2bf3036cae94",
+      "extended_description": "Bodega boutique familiar, con actividades socio culturales y visitas guiadas.",
+      "events": [],
+      "coordinates": [-32.35048685957765, -57.964039206746335],
+      "geocoding_info": {
+        "display_name": "Ruta 90, Barrio Sur, Guichón, Paysandú, 60008, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA Y VIÑEDOS CORDANO-ALMACÉN LA CAPILLA",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "45427316/098929076",
+        "bodegacordano@adinet.com.uy",
+        "https://www.facebook.com"
+      ],
+      "como_llegar": [
+        "Camino de los Peregrinos y Ana Maria Carpy",
+        "Carmelo/Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/5/attachments/35",
+          "alt": "BODEGA Y VIÑEDOS CORDANO-ALMACÉN LA CAPILLA.jpg",
+          "title": "BODEGA Y VIÑEDOS CORDANO-ALMACÉN LA CAPILLA.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "bodegacordano@adinet.com.uy",
+        "website": "adinet.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_Y_VIÑEDOS_CORDANO-ALMACÉN_LA_CAPILLA.jpg",
+          "alt": "BODEGA Y VIÑEDOS CORDANO-ALMACÉN LA CAPILLA.jpg",
+          "title": "BODEGA Y VIÑEDOS CORDANO-ALMACÉN LA CAPILLA.jpg"
+        }
+      ],
+      "entity_index": 26,
+      "entity_key": "3e0fcf3b4d99ec08b338a3b9b5e12f97",
+      "extended_description": "Bodega ubicada en una zona llamada Colonia Estrella a 3 kmts. de la ciudad de Carmelo, se encuentra en la 5ta. Generación de la familia Cordano, cultivando uvas de alta calidad enológica como son Cabernet Sauvignon, Cabernet Franc, Tannat, Merlot, Syrah, Chardonnay, Moscatel de Hamburgo, con una capacidad en bodega  de 100.000 litros. Tiene dos líneas de vinos finos, 5ta. Generación y Almacén de la Capilla, el primero hace referencia a la historia familiar, el segundo se encuentra en venta exclusiva con una producción limitada de 10.000 botellas anuales en el “Almacén de la Capilla” propiedad de la Bodega y qué desde 2014 abre sus puertas  a turistas que desean conocer y degustar sus vinos.",
+      "events": [],
+      "coordinates": [-33.96112166131518, -58.295376507981516],
+      "geocoding_info": null
+    },
+    {
+      "name": "BODEGA ZUBIZARRETA",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "99280284",
+        "-",
+        "45423080",
+        "contacto@bodegazubizarreta.com.uy",
+        "www.bodegazubizarreta.com.uy"
+      ],
+      "como_llegar": [
+        "Ruta 21 KM 241",
+        "Juan Gonzalez / Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/40/attachments/34",
+          "alt": "BODEGA ZUBIZARRETA.jpg",
+          "title": "BODEGA ZUBIZARRETA.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "contacto@bodegazubizarreta.com.uy",
+        "website": "bodegazubizarreta.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_ZUBIZARRETA.jpg",
+          "alt": "BODEGA ZUBIZARRETA.jpg",
+          "title": "BODEGA ZUBIZARRETA.jpg"
+        }
+      ],
+      "entity_index": 27,
+      "entity_key": "f95f6bdfc900720ece523ad4fb8c495b",
+      "extended_description": "La familia Zubizarreta llegó hace más de sesenta años a las tierras de la antigua Calera de las Huérfanas, muy cerca de Carmelo. Sus vinos son reflejo del saber hacer que va ya por la tercera generación;  vinos  jóvenes y frutados, cuentan lo mejor de cada variedad. Cepas tales como Tannat, Merlot, Cabernet Sauvignon, Moscatel de Hamburgo, Sauvignon Blanc y la exclusiva Marselan, se expresan en sus cuarenta hectáreas de  viñedos con los más ricos matices. Suelos arenosos, de gran permeabilidad y excelente drenaje; buena amplitud térmica y la proximidad del Río de la Plata, junto a la tradición de inmigrantes vascos, españoles e italianos que llegaron a estas tierras en el siglo XIX,  conforman el terroir Carmelo como zona imprescindible en la viticultura uruguaya. Desde hace unos cinco años, la familia abrió las puertas de su Casa y Bodega al enoturismo.- Para conocer sus historias en la centenaria Casa de Aitona , es imprescindible la reserva previa de visitas y degustaciones.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-zubizarreta-noche-de-san-juan-1/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/cc959cd5f8678ed0e78d03f86106c29c7dc595c0.jpg",
+          "image_alt": "BODEGA ZUBIZARRETA: NOCHE DE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_ZUBIZARRETA_NOCHE_DE_SAN_JUAN.jpg",
+          "title": "BODEGA ZUBIZARRETA: NOCHE DE SAN JUAN",
+          "description": "",
+          "date": "21/06/2025",
+          "location": "Ruta 21 km 241 Carmelo Colonia"
+        }
+      ],
+      "coordinates": [-34.04214051054923, -58.18745318966552],
+      "geocoding_info": null
+    },
+    {
+      "name": "BODEGAS CARRAU",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "23200238/091950046",
+        "visitas@bodegascarrau.com",
+        "www.bodegascarrau.com"
+      ],
+      "como_llegar": [
+        "Cesar Mayo Gutiérrez 2556 Colón",
+        "Colon/Montevideo"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/16/attachments/16",
+          "alt": "BODEGAS CARRAU.jpg",
+          "title": "BODEGAS CARRAU.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "visitas@bodegascarrau.com",
+        "website": "bodegascarrau.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGAS_CARRAU.jpg",
+          "alt": "BODEGAS CARRAU.jpg",
+          "title": "BODEGAS CARRAU.jpg"
+        }
+      ],
+      "entity_index": 28,
+      "entity_key": "468f28600edd0ade0a6afc0d77961fe3",
+      "extended_description": "Conozca más de 265 años de tradición vitivinícola familiar. Localizada en Montevideo y a sólo 17 kilómetros del centro, Bodegas Carrau es una opción ideal para quien visita la ciudad de Montevideo. Visite nuestra antigua cava y aprenda sobre los diferentes métodos de elaboración. Deguste nuestra variedad de vinos en el hermoso entorno de nuestra casona colonial, parque y viñedo. Descubra nuestra cava de reservas especiales ofrecida exclusivamente a quienes nos visitan. VINOS, HISTORIA Y TRADICIÓN Con el cuidado que une amor y conocimiento por la tierra donde se vive, la producción artesanal camina al lado de la tecnología ofreciendo productos únicos que enaltecen lo mejor de nuestras vides. DESCUBRA Lo invitamos a rescatar historias de la Familia Carrau que heredó el arte de hacer de la uva el centro de la cultura. Un parque natural, rodeado de árboles, viñedos y aromas que junto a una arquitectura colonial hace renacer recuerdos de un tiempo pasado. AROMAS Y SABORES La hospitalidad y experiencia de nuestra gente lo conducirá a recorrer nuestra bodega y degustar nuestros vinos en un ambiente que nos traslada a una tradicional casa de campo de Uruguay. EVENTOS Bodegas Carrau abre sus puertas a visitantes y empresas que busquen un lugar tranquilo y diferente para sus eventos empresariales. Contamos con distintos salones que varían su capacidad, una sala para grupos más reducidos y un salón con lugar para 100 personas sentadas.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodegas-carrau-noche-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/7078a14e17cac283a75c6acdd0991c66d758e9d0.jpg",
+          "image_alt": "BODEGAS CARRAU: NOCHE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGAS_CARRAU_NOCHE_SAN_JUAN.jpg",
+          "title": "BODEGAS CARRAU: NOCHE SAN JUAN",
+          "description": "",
+          "date": "28/06/2025",
+          "location": "César Mayo Gutiérrez 2556 Colón Montevideo"
+        }
+      ],
+      "coordinates": [-34.787485669971396, -56.22268970674634],
+      "geocoding_info": {
+        "display_name": "Ruta César Mayo Gutiérrez, Colón, Montevideo, 12500, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA GAMBA",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "098918836",
+        "bodegagamba@gmail.com",
+        "www.bodegagamba.com.uy"
+      ],
+      "como_llegar": [
+        "Ruta 107, Km. 2 Sauce",
+        "Sauce Canelones",
+        "Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/61/attachments/136",
+          "alt": "logo.jpeg",
+          "title": "logo.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/61/attachments/137",
+          "alt": "Copia de -DSC0153.jpeg",
+          "title": "Copia de -DSC0153.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/61/attachments/138",
+          "alt": "Foto 3.jpeg",
+          "title": "Foto 3.jpeg"
+        }
+      ],
+      "contact_info": {
+        "email": "bodegagamba@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "logo.jpeg",
+          "alt": "logo.jpeg",
+          "title": "logo.jpeg"
+        },
+        {
+          "src": "Copia_de_-DSC0153.jpeg",
+          "alt": "Copia de -DSC0153.jpeg",
+          "title": "Copia de -DSC0153.jpeg"
+        },
+        {
+          "src": "Foto_3.jpeg",
+          "alt": "Foto 3.jpeg",
+          "title": "Foto 3.jpeg"
+        }
+      ],
+      "entity_index": 29,
+      "entity_key": "05ef803470e80dcd8ae2698ef84c9f55",
+      "extended_description": "Somos un establecimiento familiar ubicado en Sauce, Canelones. Desde 1904, año en que se implantaron las primeras filas de vid, la familia se ha dedicado a producir y elaborar vinos de mesa y posteriormente VCP. Hemos apostado siempre a obtener productos de calidad, manteniendo la tradición y el amor por la vitivinicultura. En los últimos tiempos nos encontramos en la búsqueda de nuevos horizontes y así es que comenzamos a enfocar nuestras energías en desarrollarnos en el campo del enoturismo y en crear una nueva línea de vinos premium, materializando nuestro terroir, la admiración por la naturaleza y el legado de las pasadas generaciones.",
+      "events": [],
+      "coordinates": [-34.63921564581887, -56.086284658951556],
+      "geocoding_info": null
+    },
+    {
+      "name": "ARTE Y VIÑA",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)",
+        "099399901/099120862",
+        "info@vinoscasagrande.com",
+        "www.vinoscasagrande.com"
+      ],
+      "como_llegar": [
+        "Ruta 101 km 31.000 Cno. de los Horneros Pando",
+        "Pando - Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/68/attachments/92",
+          "alt": "ARTE Y VIÑA.jpg",
+          "title": "ARTE Y VIÑA.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "info@vinoscasagrande.com",
+        "website": "vinoscasagrande.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "ARTE_Y_VIÑA.jpg",
+          "alt": "ARTE Y VIÑA.jpg",
+          "title": "ARTE Y VIÑA.jpg"
+        }
+      ],
+      "entity_index": 30,
+      "entity_key": "404e33c32c14e0fb788d3b7e057aff1b",
+      "extended_description": "EL viñedo es el lugar donde comienza la producción de nuestros vinos. Casa Grande, te invita a que descubras el mundo del vino y seas parte del recorrido por el viñedo, conociendo como y donde, elaboramos el vino de cada botella que conserva la calidad, aroma y sabor que nos caracterizan. Finalizando tu visita con degustaciones gastronómicas y una deliciosa cata del mejor vino de casa.",
+      "events": [],
+      "coordinates": [-34.76490248084998, -55.96991930498317],
+      "geocoding_info": null
+    },
+    {
+      "name": "CASA TANNAT",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "092465056",
+        "experiencias@casatannat",
+        ".com.uy",
+        "casatannat.com"
+      ],
+      "como_llegar": [
+        "Ruta de la Marcela",
+        "ARTIGAS"
+      ],
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg/v1/fill/w_280,h_351,q_90,enc_avif,quality_auto/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg%201x,%20https://static.wixstatic.com/media/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg/v1/fill/w_560,h_702,q_90,enc_avif,quality_auto/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg%202x,%20https://static.wixstatic.com/media/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg/v1/fill/w_840,h_1053,q_90,enc_avif,quality_auto/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg%203x,%20https://static.wixstatic.com/media/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg/v1/fill/w_1120,h_1404,q_90,enc_avif,quality_auto/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg%204x,%20https://static.wixstatic.com/media/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg/v1/fill/w_1277,h_1600,q_90,enc_avif,quality_auto/a2aa42_842a2cebc0d84c3f8a35d59a159a91db~mv2.jpeg",
+          "alt": "CASA TANNAT.jpg",
+          "title": "CASA TANNAT.jpg"
+        }
+      ],
+      "contact_info": {
+        "website": ".com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [],
+      "entity_index": 31,
+      "entity_key": "62d552b88c9a457775f93aa32e240af0",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-30.5201861100201, -56.40286324302671],
+      "geocoding_info": null
+    },
+    {
+      "name": "CASA VIGGIANO",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "091000904",
+        "viggianovinogarage@gmail.com",
+        "https://www.instagram.com/casaviggiano"
+      ],
+      "como_llegar": [
+        "Camino La CorbaTA S/N",
+        "LAS VIOLETAS",
+        "Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/104/attachments/189",
+          "alt": "1.png",
+          "title": "1.png"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/104/attachments/190",
+          "alt": "2.jpeg",
+          "title": "2.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/104/attachments/191",
+          "alt": "4.jpeg",
+          "title": "4.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/104/attachments/192",
+          "alt": "3.jpeg",
+          "title": "3.jpeg"
+        }
+      ],
+      "contact_info": {
+        "email": "viggianovinogarage@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "1.png",
+          "alt": "1.png",
+          "title": "1.png"
+        },
+        {
+          "src": "2.jpeg",
+          "alt": "2.jpeg",
+          "title": "2.jpeg"
+        },
+        {
+          "src": "4.jpeg",
+          "alt": "4.jpeg",
+          "title": "4.jpeg"
+        },
+        {
+          "src": "3.jpeg",
+          "alt": "3.jpeg",
+          "title": "3.jpeg"
+        }
+      ],
+      "entity_index": 32,
+      "entity_key": "80fd27307a52e785a4b9bc0e4d712833",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.5847566912239, -56.29515227791055],
+      "geocoding_info": null
+    },
+    {
+      "name": "CAVA DE LAS ANIMAS",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "098846603",
+        "cavadelasanimas@gmail.com",
+        "https://www.instagram.com/cavadelasanimas.uy/?igshid=OGQ5ZDc2ODk2ZA%3D%3D"
+      ],
+      "como_llegar": [
+        "Calle 4 S/N",
+        "Nueva Carrara/Maldonado"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/91/attachments/132",
+          "alt": "Logo CAVA.jpeg",
+          "title": "Logo CAVA.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/91/attachments/133",
+          "alt": "PXL_20220508_172608554.jpg",
+          "title": "PXL_20220508_172608554.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/91/attachments/134",
+          "alt": "PXL_20220508_204118379.jpg",
+          "title": "PXL_20220508_204118379.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/91/attachments/135",
+          "alt": "20230205_192347.jpg",
+          "title": "20230205_192347.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "cavadelasanimas@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Logo_CAVA.jpeg",
+          "alt": "Logo CAVA.jpeg",
+          "title": "Logo CAVA.jpeg"
+        },
+        {
+          "src": "PXL_20220508_172608554.jpg",
+          "alt": "PXL_20220508_172608554.jpg",
+          "title": "PXL_20220508_172608554.jpg"
+        },
+        {
+          "src": "PXL_20220508_204118379.jpg",
+          "alt": "PXL_20220508_204118379.jpg",
+          "title": "PXL_20220508_204118379.jpg"
+        },
+        {
+          "src": "20230205_192347.jpg",
+          "alt": "20230205_192347.jpg",
+          "title": "20230205_192347.jpg"
+        }
+      ],
+      "entity_index": 33,
+      "entity_key": "dc5af5732ac8299c8f0347c7cbf9fc8f",
+      "extended_description": "Somos una bodega familiar ubicada en Nueva Carrara. Nos caracterizamos por un entorno natural privilegiado entre las Sierras de las Ánimas junto a un tajamar con aves de corral y montes.",
+      "events": [],
+      "coordinates": [
+        -34.719265,
+        -55.2620825
+      ],
+      "geocoding_info": {
+        "display_name": "Calle 4, Nueva Carrara, Maldonado, 20300, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "CERRO DEL TORO S.A.",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)",
+        "099467590",
+        "info@cerrodeltoro.com.uy",
+        "www.cerrodeltoro.uy"
+      ],
+      "como_llegar": [
+        "Camino de los Arrayanes km 3,800",
+        "CERRO DEL TORO / PIRIAPOLIS",
+        "Maldonado"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/81/attachments/90",
+          "alt": "CERRO DEL TORO.jpg",
+          "title": "CERRO DEL TORO.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/81/attachments/91",
+          "alt": "CERRO DEL TORO.jpg",
+          "title": "CERRO DEL TORO.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "info@cerrodeltoro.com.uy",
+        "website": "cerrodeltoro.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "CERRO_DEL_TORO.jpg",
+          "alt": "CERRO DEL TORO.jpg",
+          "title": "CERRO DEL TORO.jpg"
+        },
+        {
+          "src": "CERRO_DEL_TORO.jpg",
+          "alt": "CERRO DEL TORO.jpg",
+          "title": "CERRO DEL TORO.jpg"
+        }
+      ],
+      "entity_index": 34,
+      "entity_key": "3e268588fa99ce02385c3de1ba754a1d",
+      "extended_description": "Bodega Cerro del Toro, propiedad de la familia Kambara, es un proyecto vitivinícola uruguayo que nace en 2016 con la vocación de elaborar vinos de alta calidad en un lugar privilegiado de la costa de Maldonado. Se ubica en Piriápolis, sobre la ladera noreste del Cerro del Toro, en un campo de 800 hectáreas, de las cuales 28 se encuentran actualmente en producción. La bodega desarrolla líneas de vinos varietales y de corte, con la vocación de expresar su verdadero carácter atlántico.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-cerro-del-toro-tannat-cordero/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/aadba8cdce3c5cbe29d660f384e0dbe9892d4ac6.jpg",
+          "image_alt": "BODEGA CERRO DEL TORO: TANNAT & CORDERO",
+          "local_image_path": "bodega_images\\BODEGA_CERRO_DEL_TORO_TANNAT__CORDERO.jpg",
+          "title": "BODEGA CERRO DEL TORO: TANNAT & CORDERO",
+          "description": "",
+          "date": "14/06/2025",
+          "location": "Camino de los Arrayanes km 3,800"
+        },
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-cerro-del-toro-fogon-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/c0d6dd9dacd13423c07f89a349b97452bdcc32e4.jpg",
+          "image_alt": "BODEGA CERRO DEL TORO: FOGÓN DE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_CERRO_DEL_TORO_FOGÓN_DE_SAN_JUAN.jpg",
+          "title": "BODEGA CERRO DEL TORO: FOGÓN DE SAN JUAN",
+          "description": "",
+          "date": "22/06/2025",
+          "location": "Camino de los Arrayanes km 3,800  Maldonado"
+        }
+      ],
+      "coordinates": [-34.867026245460615, -55.24454270674633],
+      "geocoding_info": null
+    },
+    {
+      "name": "COFRADIA DE LA SIERRA BODEGA Y VIÑEDOS",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "+59896694050",
+        "cofradiadelasierra@gmail.com",
+        "@cofradiadelasierra"
+      ],
+      "como_llegar": [
+        "Cno a ruta del Carape a 6km de ruta 12 en km 30",
+        "Maldonado"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/98/attachments/162",
+          "alt": "LOGO.jpg",
+          "title": "LOGO.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/98/attachments/163",
+          "alt": "1.jpg",
+          "title": "1.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/98/attachments/164",
+          "alt": "4.jpg",
+          "title": "4.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/98/attachments/165",
+          "alt": "7.jpg",
+          "title": "7.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "cofradiadelasierra@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "LOGO.jpg",
+          "alt": "LOGO.jpg",
+          "title": "LOGO.jpg"
+        },
+        {
+          "src": "1.jpg",
+          "alt": "1.jpg",
+          "title": "1.jpg"
+        },
+        {
+          "src": "4.jpg",
+          "alt": "4.jpg",
+          "title": "4.jpg"
+        },
+        {
+          "src": "7.jpg",
+          "alt": "7.jpg",
+          "title": "7.jpg"
+        }
+      ],
+      "entity_index": 35,
+      "entity_key": "e275e9155c4d2806cb37baf87397a327",
+      "extended_description": "Bodega, viñedo y restaurante conviven con otros emprendimientos familiares cono Fina uy Tejidos en Telar, Ohe arte en Bambú y Biomagia cosmética natural",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/cofradia-de-la-sierra-bodega-en-llamas/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/600f08493c295e41e2118f8ddc14fe4fa9a5bdb0.jpg",
+          "image_alt": "COFRADÍA DE LA SIERRA: BODEGA EN LLAMAS",
+          "local_image_path": "bodega_images\\COFRADÍA_DE_LA_SIERRA_BODEGA_EN_LLAMAS.jpg",
+          "title": "COFRADÍA DE LA SIERRA: BODEGA EN LLAMAS",
+          "description": "",
+          "date": "21/06/2025",
+          "location": "Cno a ruta del Carape a 6km de ruta 12 en km 30  Maldonado"
+        }
+      ],
+      "coordinates": [-34.58705265784392, -55.03036140369025],
+      "geocoding_info": null
+    },
+    {
+      "name": "COLORADO CHICO",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)",
+        "2364",
+        "7240",
+        "coloradochicosrl@gmail.com"
+      ],
+      "como_llegar": [
+        "Cno. Gomenzoro s/n El Colorado",
+        "CANELONES"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/102/attachments/181",
+          "alt": "3.jpg",
+          "title": "3.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/102/attachments/182",
+          "alt": "2.jpg",
+          "title": "2.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/102/attachments/183",
+          "alt": "1.jpg",
+          "title": "1.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "coloradochicosrl@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "3.jpg",
+          "alt": "3.jpg",
+          "title": "3.jpg"
+        },
+        {
+          "src": "2.jpg",
+          "alt": "2.jpg",
+          "title": "2.jpg"
+        },
+        {
+          "src": "1.jpg",
+          "alt": "1.jpg",
+          "title": "1.jpg"
+        }
+      ],
+      "entity_index": 36,
+      "entity_key": "a35d9a21f1cd90f97db234448bca3e31",
+      "extended_description": "",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-colorado-chico-tannat-cordero/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/d5bcb67b6bed4cad25fd2f002e7dedf71f1998b7.jpg",
+          "image_alt": "BODEGA COLORADO CHICO: TANNAT & CORDERO",
+          "local_image_path": "bodega_images\\BODEGA_COLORADO_CHICO_TANNAT__CORDERO.jpg",
+          "title": "BODEGA COLORADO CHICO: TANNAT & CORDERO",
+          "description": "",
+          "date": "15/06/2025",
+          "location": "Cno. Gomenzoro s/n El Colorado Canelones"
+        }
+      ],
+      "coordinates": [-34.679635137631834, -56.2584191515028],
+      "geocoding_info": {
+        "display_name": "Colorado Chico, 18 de Mayo, Municipio de Las Piedras, Canelones, 90300, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "COMARCA LAS LIEBRES",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(598)",
+        "096120040/",
+        "(598)",
+        "096112660",
+        "reservas@lasliebres.com.uy",
+        "www.lasliebres.com.uy"
+      ],
+      "como_llegar": [
+        "Zapican 645",
+        "COLONIA DEL SACRAMENTO / COLONIA"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/96/attachments/157",
+          "alt": "79dd9a476fd21b873cd8a57a2946968a429c2e63.jpg",
+          "title": "79dd9a476fd21b873cd8a57a2946968a429c2e63.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/96/attachments/158",
+          "alt": "3.jpg",
+          "title": "3.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/96/attachments/159",
+          "alt": "2.jpg",
+          "title": "2.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/96/attachments/160",
+          "alt": "logo las liebres VIÑEDO_page-0001.jpg",
+          "title": "logo las liebres VIÑEDO_page-0001.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "reservas@lasliebres.com.uy",
+        "website": "lasliebres.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "79dd9a476fd21b873cd8a57a2946968a429c2e63.jpg",
+          "alt": "79dd9a476fd21b873cd8a57a2946968a429c2e63.jpg",
+          "title": "79dd9a476fd21b873cd8a57a2946968a429c2e63.jpg"
+        },
+        {
+          "src": "3.jpg",
+          "alt": "3.jpg",
+          "title": "3.jpg"
+        },
+        {
+          "src": "2.jpg",
+          "alt": "2.jpg",
+          "title": "2.jpg"
+        },
+        {
+          "src": "logo_las_liebres_VIÑEDO_page-0001.jpg",
+          "alt": "logo las liebres VIÑEDO_page-0001.jpg",
+          "title": "logo las liebres VIÑEDO_page-0001.jpg"
+        }
+      ],
+      "entity_index": 37,
+      "entity_key": "bc2839a381e2512c21e124b4bfbd1919",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.43071334425666, -57.85265767791055],
+      "geocoding_info": {
+        "display_name": "Zapicán, Real de San Carlos, Colonia del Sacramento, Colonia, 70000, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "FAMILIA DE LUCCA",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "23678076",
+        "/",
+        "091663082",
+        "/",
+        "099978545",
+        "vinadelucca@gmail.com",
+        "www.deluccawines.com"
+      ],
+      "como_llegar": [
+        "Ruta 48 km 13",
+        "100 El Colorado",
+        "El Colorado/Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/10/attachments/39",
+          "alt": "FAMILIA DE LUCCA.jpg",
+          "title": "FAMILIA DE LUCCA.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "vinadelucca@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "FAMILIA_DE_LUCCA.jpg",
+          "alt": "FAMILIA DE LUCCA.jpg",
+          "title": "FAMILIA DE LUCCA.jpg"
+        }
+      ],
+      "entity_index": 38,
+      "entity_key": "a6867b5210a9252b3d3a8ac5a90242bc",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.67226572245804, -56.28531502883637],
+      "geocoding_info": null
+    },
+    {
+      "name": "ESTANCIA VINICOLA FINCA CONSENTIDO",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "+52",
+        "999",
+        "368",
+        "5437",
+        "alejandro.garcia@patrimonium.com",
+        "http://www.elconsentidouruguay.com"
+      ],
+      "como_llegar": [
+        "RUTA 13 KM 247",
+        "5",
+        "ROCHA"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/103/attachments/184",
+          "alt": "Logo ConSentido Estancia Vinicola Rocha Uruguay.png",
+          "title": "Logo ConSentido Estancia Vinicola Rocha Uruguay.png"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/103/attachments/185",
+          "alt": "Foto Frente de finca .jpeg",
+          "title": "Foto Frente de finca .jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/103/attachments/186",
+          "alt": "Viñedo 1.jpg",
+          "title": "Viñedo 1.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/103/attachments/187",
+          "alt": "Alojamiento Finca ConSentido.jpg",
+          "title": "Alojamiento Finca ConSentido.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/103/attachments/188",
+          "alt": "Como llegar a Finca ConSentido Rocha .png",
+          "title": "Como llegar a Finca ConSentido Rocha .png"
+        }
+      ],
+      "contact_info": {
+        "email": "alejandro.garcia@patrimonium.com",
+        "website": "alejandro.garcia"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Logo_ConSentido_Estancia_Vinicola_Rocha_Uruguay.png",
+          "alt": "Logo ConSentido Estancia Vinicola Rocha Uruguay.png",
+          "title": "Logo ConSentido Estancia Vinicola Rocha Uruguay.png"
+        },
+        {
+          "src": "Foto_Frente_de_finca_.jpeg",
+          "alt": "Foto Frente de finca .jpeg",
+          "title": "Foto Frente de finca .jpeg"
+        },
+        {
+          "src": "Viñedo_1.jpg",
+          "alt": "Viñedo 1.jpg",
+          "title": "Viñedo 1.jpg"
+        },
+        {
+          "src": "Alojamiento_Finca_ConSentido.jpg",
+          "alt": "Alojamiento Finca ConSentido.jpg",
+          "title": "Alojamiento Finca ConSentido.jpg"
+        },
+        {
+          "src": "Como_llegar_a_Finca_ConSentido_Rocha_.png",
+          "alt": "Como llegar a Finca ConSentido Rocha .png",
+          "title": "Como llegar a Finca ConSentido Rocha .png"
+        }
+      ],
+      "entity_index": 39,
+      "entity_key": "67bd8947b49ccb6dab5db29341fbd453",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-33.96873525327932, -54.04272271720005],
+      "geocoding_info": null
+    },
+    {
+      "name": "FAMILIA MORI MAGLIO, VIÑEDO EL ASOMBRADO",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)099103859/097163777",
+        "morimagliowines@gmail.com"
+      ],
+      "como_llegar": [
+        "Ruta 3 km. 473",
+        "Parada Dayman",
+        "Paysandu"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/83/attachments/110",
+          "alt": "Viñedo el Asinbrado_1.JPEG",
+          "title": "Viñedo el Asinbrado_1.JPEG"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/83/attachments/111",
+          "alt": "Viñedo El Asombrado.jpeg",
+          "title": "Viñedo El Asombrado.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/83/attachments/112",
+          "alt": "Viñedo El Asombrado_2.jpeg",
+          "title": "Viñedo El Asombrado_2.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/83/attachments/113",
+          "alt": "Viñedo El Asombrado_3.jpeg",
+          "title": "Viñedo El Asombrado_3.jpeg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/83/attachments/114",
+          "alt": "Viñedo El Asombrado_4.jpeg",
+          "title": "Viñedo El Asombrado_4.jpeg"
+        }
+      ],
+      "contact_info": {
+        "email": "morimagliowines@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Viñedo_el_Asinbrado_1.JPEG",
+          "alt": "Viñedo el Asinbrado_1.JPEG",
+          "title": "Viñedo el Asinbrado_1.JPEG"
+        },
+        {
+          "src": "Viñedo_El_Asombrado.jpeg",
+          "alt": "Viñedo El Asombrado.jpeg",
+          "title": "Viñedo El Asombrado.jpeg"
+        },
+        {
+          "src": "Viñedo_El_Asombrado_2.jpeg",
+          "alt": "Viñedo El Asombrado_2.jpeg",
+          "title": "Viñedo El Asombrado_2.jpeg"
+        },
+        {
+          "src": "Viñedo_El_Asombrado_3.jpeg",
+          "alt": "Viñedo El Asombrado_3.jpeg",
+          "title": "Viñedo El Asombrado_3.jpeg"
+        },
+        {
+          "src": "Viñedo_El_Asombrado_4.jpeg",
+          "alt": "Viñedo El Asombrado_4.jpeg",
+          "title": "Viñedo El Asombrado_4.jpeg"
+        }
+      ],
+      "entity_index": 40,
+      "entity_key": "503c515cc8df8fa9edb64c068df49cf8",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-31.48094699021102, -57.90613062358569],
+      "geocoding_info": null
+    },
+    {
+      "name": "FINCA BUEN CAMINO",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "099948903",
+        "nicolasjobke@gmail.com"
+      ],
+      "como_llegar": [
+        "Tula Suarez de Cutinella",
+        "El Caño - Colonia"
+      ],
+      "images": [],
+      "contact_info": {
+        "email": "nicolasjobke@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [],
+      "entity_index": 41,
+      "entity_key": "6962ce64b917147c8621fbce42162827",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.39346655166127, -57.87674405985684],
+      "geocoding_info": {
+        "display_name": "Escuela 83 Tula Suárez de Cutinella, Humberto Mignone, Colonia, 70000, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "FINCA BUENA VISTA",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)",
+        "099",
+        "321",
+        "585",
+        "caterianvina@gmail.com"
+      ],
+      "como_llegar": [
+        "Calle del Medio entre Minas y Ordoñana Carmelo",
+        "COLONIA"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/63/attachments/66",
+          "alt": "FINCA BUENA VISTA.jpg",
+          "title": "FINCA BUENA VISTA.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/63/attachments/67",
+          "alt": "FINCA BUENA VISTA_2.jpg",
+          "title": "FINCA BUENA VISTA_2.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "caterianvina@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "FINCA_BUENA_VISTA.jpg",
+          "alt": "FINCA BUENA VISTA.jpg",
+          "title": "FINCA BUENA VISTA.jpg"
+        },
+        {
+          "src": "FINCA_BUENA_VISTA_2.jpg",
+          "alt": "FINCA BUENA VISTA_2.jpg",
+          "title": "FINCA BUENA VISTA_2.jpg"
+        }
+      ],
+      "entity_index": 42,
+      "entity_key": "d3d0b029f2225dcbb80f919ebf9e43f5",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-33.921493529786815, -58.38670924232726],
+      "geocoding_info": null
+    },
+    {
+      "name": "FINCA LAS VIOLETAS",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "094148897",
+        "wines@fincalasvioletas.com",
+        "Finca",
+        "Las",
+        "Violetas",
+        "-",
+        "Wines"
+      ],
+      "como_llegar": [
+        "Camino R Soca s/n",
+        "Las Violetas / Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/105/attachments/194",
+          "alt": "Imagen de WhatsApp 2025-06-03 a las 10.24.01_15a87d2c.jpg",
+          "title": "Imagen de WhatsApp 2025-06-03 a las 10.24.01_15a87d2c.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/105/attachments/195",
+          "alt": "Imagen de WhatsApp 2025-06-03 a las 10.24.01_15ecab2c.jpg",
+          "title": "Imagen de WhatsApp 2025-06-03 a las 10.24.01_15ecab2c.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/105/attachments/196",
+          "alt": "Imagen de WhatsApp 2025-06-03 a las 10.24.02_d2f588ac.jpg",
+          "title": "Imagen de WhatsApp 2025-06-03 a las 10.24.02_d2f588ac.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "wines@fincalasvioletas.com",
+        "website": "fincalasvioletas.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Imagen_de_WhatsApp_2025-06-03_a_las_10.24.01_15a87d2c.jpg",
+          "alt": "Imagen de WhatsApp 2025-06-03 a las 10.24.01_15a87d2c.jpg",
+          "title": "Imagen de WhatsApp 2025-06-03 a las 10.24.01_15a87d2c.jpg"
+        },
+        {
+          "src": "Imagen_de_WhatsApp_2025-06-03_a_las_10.24.01_15ecab2c.jpg",
+          "alt": "Imagen de WhatsApp 2025-06-03 a las 10.24.01_15ecab2c.jpg",
+          "title": "Imagen de WhatsApp 2025-06-03 a las 10.24.01_15ecab2c.jpg"
+        },
+        {
+          "src": "Imagen_de_WhatsApp_2025-06-03_a_las_10.24.02_d2f588ac.jpg",
+          "alt": "Imagen de WhatsApp 2025-06-03 a las 10.24.02_d2f588ac.jpg",
+          "title": "Imagen de WhatsApp 2025-06-03 a las 10.24.02_d2f588ac.jpg"
+        }
+      ],
+      "entity_index": 43,
+      "entity_key": "6487f2c5aac8e3d753edebdfe5e6d0d0",
+      "extended_description": "En la creación de Finca Las Violetas, la familia ha mantenido un compromiso absoluto con la calidad. Su objetivo es tan simple como ambicioso: crear vinos de categoría mundial, con pasión y respeto por la naturaleza.",
+      "events": [],
+      "coordinates": [-34.55797038100805, -56.28411764857435],
+      "geocoding_info": null
+    },
+    {
+      "name": "FINCA PIEDRA",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "098679186",
+        "ceo@fincapiedra.com",
+        "https://fincapiedra.com"
+      ],
+      "como_llegar": [
+        "Ruta 23 km. 125",
+        "MAL ABRIGO",
+        "San Jose"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/89/attachments/127",
+          "alt": "FINCA PIEDRA.jpg",
+          "title": "FINCA PIEDRA.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "ceo@fincapiedra.com",
+        "website": "fincapiedra.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "FINCA_PIEDRA.jpg",
+          "alt": "FINCA PIEDRA.jpg",
+          "title": "FINCA PIEDRA.jpg"
+        }
+      ],
+      "entity_index": 44,
+      "entity_key": "e7be7cbfbd0542d74870688b389f0af4",
+      "extended_description": "Una exclusiva estancia eco-turística, donde las 20 hectáreas de selectos viñedos son su mayor encanto. Con sus 600 hectáreas sobre las sierras de Mahoma en el departamento de San José, Finca Piedra revela la auténtica vida de campo uruguayo, a sólo 125 Km de Montevideo y 110 Km de Colonia. Ya sea a caballo, en carro, a pie, en bicicleta o en carrito de golf podrá maravillarse en estos paseos, de los paisajes naturales que nos regala el entorno: las Sierras de Mahoma, los viñedos, el arroyo La Coronilla y las lagunas. La estancia abre su tranquera para quienes busquen paz, descanso, experiencias nuevas y aventura.",
+      "events": [],
+      "coordinates": [-34.13626849464614, -56.95570146441788],
+      "geocoding_info": {
+        "display_name": "Ruta 23, Mal Abrigo, San José, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "LAS ESPINAS",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "094818664/094430999",
+        "lasespinas@bodegabouza.com",
+        "www.bodegabouza.com"
+      ],
+      "como_llegar": [
+        "Ruta Interbalnearia Km 104",
+        "Pan de Azucar/Maldonado"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/93/attachments/142",
+          "alt": "Logo LE.jpg",
+          "title": "Logo LE.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/93/attachments/143",
+          "alt": "DJI_0050.jpg",
+          "title": "DJI_0050.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/93/attachments/144",
+          "alt": "_DVS9548.jpg",
+          "title": "_DVS9548.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "lasespinas@bodegabouza.com",
+        "website": "bodegabouza.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Logo_LE.jpg",
+          "alt": "Logo LE.jpg",
+          "title": "Logo LE.jpg"
+        },
+        {
+          "src": "DJI_0050.jpg",
+          "alt": "DJI_0050.jpg",
+          "title": "DJI_0050.jpg"
+        },
+        {
+          "src": "_DVS9548.jpg",
+          "alt": "_DVS9548.jpg",
+          "title": "_DVS9548.jpg"
+        }
+      ],
+      "entity_index": 45,
+      "entity_key": "cd96003c94df6358c92ab3837806420e",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.85314093786195, -55.2042872951041],
+      "geocoding_info": {
+        "display_name": "Cerro de las Espinas, Maldonado, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "LEONARDO FALCONE",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "47227718-47240844",
+        "bodegaleonardofalcone@gmail.com"
+      ],
+      "como_llegar": [
+        "Av. Wilson Ferreira 2149",
+        "PAYSANDU"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/86/attachments/118",
+          "alt": "L FALCONE_1.jpg",
+          "title": "L FALCONE_1.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/86/attachments/119",
+          "alt": "L FALCONE.jpg",
+          "title": "L FALCONE.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/86/attachments/120",
+          "alt": "L FALCONE_2.jpg",
+          "title": "L FALCONE_2.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "bodegaleonardofalcone@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "L_FALCONE_1.jpg",
+          "alt": "L FALCONE_1.jpg",
+          "title": "L FALCONE_1.jpg"
+        },
+        {
+          "src": "L_FALCONE.jpg",
+          "alt": "L FALCONE.jpg",
+          "title": "L FALCONE.jpg"
+        },
+        {
+          "src": "L_FALCONE_2.jpg",
+          "alt": "L FALCONE_2.jpg",
+          "title": "L FALCONE_2.jpg"
+        }
+      ],
+      "entity_index": 46,
+      "entity_key": "582ed0b90919353e3d104d91d5a0a871",
+      "extended_description": "",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-leonardo-falcone-vive-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/083c794490a52b40e02c7a18bc0f338f9211c7a5.jpg",
+          "image_alt": "BODEGA LEONARDO FALCONE: VIVE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_LEONARDO_FALCONE_VIVE_SAN_JUAN.jpg",
+          "title": "BODEGA LEONARDO FALCONE: VIVE SAN JUAN",
+          "description": "",
+          "date": "21/06/2025",
+          "location": "Av. Wilson Ferreira 2149, Paysandú  Paysandú"
+        }
+      ],
+      "coordinates": [
+        -32.3097055,
+        -58.0633448
+      ],
+      "geocoding_info": {
+        "display_name": "Avenida Wilson Ferreira Aldunate, Barrio El Espejo, Paysandú, 60000, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "LOS CERROS DE SAN JUAN",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "+(598)",
+        "4570",
+        "7300",
+        "-",
+        "091",
+        "949",
+        "494",
+        "info@bodegaloscerrosdesanjuan.com",
+        "www.bodegaloscerrosdesanjuan.com/"
+      ],
+      "como_llegar": [
+        "Ruta 21 km 204",
+        "Colonia del Sacramento",
+        "Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/65/attachments/63",
+          "alt": "LOS CERROS DE SAN JUAN.jpg",
+          "title": "LOS CERROS DE SAN JUAN.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "info@bodegaloscerrosdesanjuan.com",
+        "website": "bodegaloscerrosdesanjuan.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "LOS_CERROS_DE_SAN_JUAN.jpg",
+          "alt": "LOS CERROS DE SAN JUAN.jpg",
+          "title": "LOS CERROS DE SAN JUAN.jpg"
+        }
+      ],
+      "entity_index": 47,
+      "entity_key": "dcc296166f4b85de8b84b3ef2b2cb109",
+      "extended_description": "La Familia Lahusen, prósperos comerciantes alemanes, funda en 1854 Los Cerros de San Juan la primer Bodega del Uruguay, hoy también Patrimonio Histórico de la Nación. 800 habitantes entre colonos y criollos contaban a fines del S. XIX con su propia Bodega, panadería, tambo, frigorífico, granja, y su propia moneda. Una cámara bajo tierra recolectaba agua de lluvia invernal que circulaba utilizando la fuerza de sus propios operarios. Según especialistas sería el primer sistema de control de temperatura de fermentación que registra la historia. Terroir único de Uruguay, con suelos pedregosos rodeados de cerros y del Río San Juan junto a vientos persistentes aseguran uvas sanas y excelente maduración. La Bodega construida con piedra de su enorme peñón se asemeja a una fortaleza o abadía medieval con temperatura y humedad ideales para elaboración y guarda de grandes vinos. Actualmente un equipo de profesionales de primer nivel y tecnología de última generación aseguran la calidad de sus vinos.",
+      "events": [],
+      "coordinates": [-34.2172887591195, -57.93103312208944],
+      "geocoding_info": {
+        "display_name": "Ruta 21, Colonia del Sacramento, Colonia, 70000, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "LOS NADIES",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)23368350",
+        "losnadies@bodegalosnadies.com",
+        "www.bodegalosnadies.com"
+      ],
+      "como_llegar": [
+        "Buschental 3390",
+        "Montevideo"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/67/attachments/93",
+          "alt": "LOS NADIES_1.jpg",
+          "title": "LOS NADIES_1.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/67/attachments/94",
+          "alt": "LOS NADIES.jpg",
+          "title": "LOS NADIES.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "losnadies@bodegalosnadies.com",
+        "website": "bodegalosnadies.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "LOS_NADIES_1.jpg",
+          "alt": "LOS NADIES_1.jpg",
+          "title": "LOS NADIES_1.jpg"
+        },
+        {
+          "src": "LOS_NADIES.jpg",
+          "alt": "LOS NADIES.jpg",
+          "title": "LOS NADIES.jpg"
+        }
+      ],
+      "entity_index": 48,
+      "entity_key": "9c17a3c9908c977812ba1831d513a686",
+      "extended_description": "Conformamos una familia que a través de Los Nadies Bodega-Almacén construimos unaforma de vida.La sucesión de procesos entre la plantación y la degustación, son un medio deforjarylegarnuestrosvalores. La forma de vida que implica este conjunto de procesos nos daLibertad, nos hace sentirvivos, en contacto con lanaturalezay lagente, a la vez que nos hace mejores personas.",
+      "events": [],
+      "coordinates": [
+        -34.8655537,
+        -56.2061654
+      ],
+      "geocoding_info": {
+        "display_name": "3390, Avenida Buschental, Prado, Montevideo, 11700, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "BODEGA LOS PINOS",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)",
+        "45545286",
+        "-",
+        "098238398",
+        "bodegalospinosuy@gmail.com"
+      ],
+      "como_llegar": [
+        "Camino los Colonos 5040",
+        "Nueva Helvecia - Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/70/attachments/76",
+          "alt": "BODEGA LOS PINOS.jpeg",
+          "title": "BODEGA LOS PINOS.jpeg"
+        }
+      ],
+      "contact_info": {
+        "email": "bodegalospinosuy@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BODEGA_LOS_PINOS.jpeg",
+          "alt": "BODEGA LOS PINOS.jpeg",
+          "title": "BODEGA LOS PINOS.jpeg"
+        }
+      ],
+      "entity_index": 49,
+      "entity_key": "c86a09f1c0f157618e68c13f66679a3f",
+      "extended_description": "Bodega Turística Los Pinos es una bodega artesanal que está cumpliendo sus 100 años y que desde el año 1965 está en manos de la familia de Rogelio Ingold y Carlos Moreda. A partir del 20 de octubre de 2019 abrimos nuestras puertas al turismo. Hoy Julio Ingold junto a su esposa Mirta Rivas y Gladys Vonrotz, esposa de Carlos Moreda, siguen manteniendo el legado familiar basado en las raíces, el trabajo, el patrimonio y el amor por lo que hacen. Realizamos visitas guiadas que incluyen recorrido por la viña, alrededores, recorrido de bodega explicación del funcionamiento, maquinaria y fichas técnicas, sótano: el corazón de la bodega, hacemos énfasis en la historia familiar y vivencias.",
+      "events": [],
+      "coordinates": [-34.30798094019555, -57.25838246441788],
+      "geocoding_info": {
+        "display_name": "Camino de Los Colonos, Nueva Helvecia, Colonia, 70201, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "NARBONA WINE LODGE",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "45446831",
+        "info@narbona.com.uy",
+        "www.narbona.com.uy"
+      ],
+      "como_llegar": [
+        "Ruta 21 km 268",
+        "Carmelo",
+        "Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/55/attachments/61",
+          "alt": "NARBONA WINE LODGE.png",
+          "title": "NARBONA WINE LODGE.png"
+        }
+      ],
+      "contact_info": {
+        "email": "info@narbona.com.uy",
+        "website": "narbona.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "NARBONA_WINE_LODGE.png",
+          "alt": "NARBONA WINE LODGE.png",
+          "title": "NARBONA WINE LODGE.png"
+        }
+      ],
+      "entity_index": 50,
+      "entity_key": "7a1aa606fb25c885a68d4dd22d14903e",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-33.923790804990915, -58.37409627791055],
+      "geocoding_info": {
+        "display_name": "Ruta 21, Carmelo, Colonia, 70100, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "PICCOLO BANFI",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "099070582",
+        "topwineri@gmail.com",
+        "www.piccolobanfi.com"
+      ],
+      "como_llegar": [
+        "Ruta km.140",
+        "Cufre_Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/56/attachments/70",
+          "alt": "PICCOLO BANFI.jpg",
+          "title": "PICCOLO BANFI.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/56/attachments/71",
+          "alt": "PICCOLO BANFI_2.jpg",
+          "title": "PICCOLO BANFI_2.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "topwineri@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "PICCOLO_BANFI.jpg",
+          "alt": "PICCOLO BANFI.jpg",
+          "title": "PICCOLO BANFI.jpg"
+        },
+        {
+          "src": "PICCOLO_BANFI_2.jpg",
+          "alt": "PICCOLO BANFI_2.jpg",
+          "title": "PICCOLO BANFI_2.jpg"
+        }
+      ],
+      "entity_index": 51,
+      "entity_key": "7063e7a87a39b0b7b48eb3c26804deb6",
+      "extended_description": "Entre cuchillas, praderas y una suave brisa ribereña, el terroir elegido ha sido la zona de Cufre en el departamento de Colonia.  Esta región atesora un infinito potencial para la elaboración de vinos Premium. La bodega: inmersa en una geografía levemente ondulada y bendecida por las aguas del Rio de la Plata, es una zona de clima templado, con estaciones bien diferenciadas, lluvias ocasionales y una marcada amplitud térmica que favorece la óptima maduración de la uva. Piccolo Banfi apostó a la corpulencia del Tannat (Emblema de la vitivinicultura uruguaya) y la elegancia del Petit Verdot para crear el primer vino con carácter de la región.  Ademas se elaboran exclusivas partidas de Pinot Noir, Cabernet Franc, Tannat y Merlot.  El proyecto se encuentra bajo la supervisión técnica de Caterina Viña.",
+      "events": [],
+      "coordinates": [-34.196887680128974, -57.10856624907477],
+      "geocoding_info": null
+    },
+    {
+      "name": "PIZZORNO FAMILY ESTATES",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "098940444",
+        "/",
+        "23689601",
+        "reservas@pizzornowines.com",
+        "www.pizzornowines.com"
+      ],
+      "como_llegar": [
+        "Ruta 32",
+        "km 23 Canelon Chico",
+        "Canelon Chico/Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/28/attachments/44",
+          "alt": "PIZZORNO FAMILY ESTATES.jpg",
+          "title": "PIZZORNO FAMILY ESTATES.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "reservas@pizzornowines.com",
+        "website": "pizzornowines.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "PIZZORNO_FAMILY_ESTATES.jpg",
+          "alt": "PIZZORNO FAMILY ESTATES.jpg",
+          "title": "PIZZORNO FAMILY ESTATES.jpg"
+        }
+      ],
+      "entity_index": 52,
+      "entity_key": "83170cf0c3f587cec478e1da5164a925",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [
+        -34.7141075,
+        -56.1700481
+      ],
+      "geocoding_info": {
+        "display_name": "ANCAP, Km 23, Ruta 32, 18 de Mayo, Montevideo, Municipio de Las Piedras, Canelones, 90300, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "PUEBLO TANNAT",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "092641652",
+        "contacto@pueblotannat.com.uy",
+        "www.pueblotannat.com.uy"
+      ],
+      "como_llegar": [
+        "Dr Irastoza entre Brasil y Muca Carpi",
+        "Colonia Estrella"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/90/attachments/131",
+          "alt": "Captura de pantalla 2023-09-26 141333.jpg",
+          "title": "Captura de pantalla 2023-09-26 141333.jpg"
+        }
+        
+      ],
+      "contact_info": {
+        "email": "contacto@pueblotannat.com.uy",
+        "website": "pueblotannat.com.uy"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "Captura_de_pantalla_2023-09-26_141333.jpg",
+          "alt": "Captura de pantalla 2023-09-26 141333.jpg",
+          "title": "Captura de pantalla 2023-09-26 141333.jpg"
+        }
+      ],
+      "entity_index": 53,
+      "entity_key": "41ffe3a8da383446d115389d884fc14d",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-33.96522437373984, -58.28765509140322],
+      "geocoding_info": null
+    },
+    {
+      "name": "QUINTA SANTERO",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "099252326/22966654",
+        "quintasantero@gmail.com",
+        "bodegaquintasantero.com",
+        "santero",
+        "logotipo",
+        "2",
+        "tintas.pdf"
+      ],
+      "como_llegar": [
+        "Ruta 33 km 28",
+        "Carrasco del Sauce/Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/94/attachments/149",
+          "alt": "22_Evento Santero_1080x1080.jpg",
+          "title": "22_Evento Santero_1080x1080.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "quintasantero@gmail.com",
+        "website": "gmail.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "santero_logotipo_2_tintas.pdf",
+          "alt": "santero logotipo 2 tintas.pdf",
+          "title": "santero logotipo 2 tintas.pdf"
+        },
+        {
+          "src": "22_Evento_Santero_1080x1080.jpg",
+          "alt": "22_Evento Santero_1080x1080.jpg",
+          "title": "22_Evento Santero_1080x1080.jpg"
+        }
+      ],
+      "entity_index": 54,
+      "entity_key": "4d86f4e418ea7af96e475798adb9a1bb",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.692555595877764, -56.108251250393806],
+      "geocoding_info": null
+    },
+    {
+      "name": "SACROMONTE",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)",
+        "095910150",
+        "reservas@sacromonte.com",
+        "http://www.sacromonte.com/"
+      ],
+      "como_llegar": [
+        "Cno. La Gillermina km. 7- Pueblo Eden",
+        "MALDONADO"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/82/attachments/145",
+          "alt": "2019 - 02 - Sacromonte9972.jpg",
+          "title": "2019 - 02 - Sacromonte9972.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/82/attachments/146",
+          "alt": "66709PR170906-061D.jpg",
+          "title": "66709PR170906-061D.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/82/attachments/147",
+          "alt": "Finotti-66709PR170906-059A.jpg",
+          "title": "Finotti-66709PR170906-059A.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "reservas@sacromonte.com",
+        "website": "sacromonte.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "2019_-_02_-_Sacromonte9972.jpg",
+          "alt": "2019 - 02 - Sacromonte9972.jpg",
+          "title": "2019 - 02 - Sacromonte9972.jpg"
+        },
+        {
+          "src": "66709PR170906-061D.jpg",
+          "alt": "66709PR170906-061D.jpg",
+          "title": "66709PR170906-061D.jpg"
+        },
+        {
+          "src": "Finotti-66709PR170906-059A.jpg",
+          "alt": "Finotti-66709PR170906-059A.jpg",
+          "title": "Finotti-66709PR170906-059A.jpg"
+        }
+      ],
+      "entity_index": 55,
+      "entity_key": "ae95a34a01f3c822e53f4684455dc911",
+      "extended_description": "",
+      "events": [],
+      "coordinates": [-34.51724007796842, -55.05810422883636],
+      "geocoding_info": null
+    },
+    {
+      "name": "VINOS FINOS H.STAGNARI",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "23622940",
+        "-",
+        "097091327",
+        "restaurante@stagnari.com",
+        "www.stagnari.com"
+      ],
+      "como_llegar": [
+        "Ruta 5 Km 20",
+        "La Puebla/ CANELONES",
+        "Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/54/attachments/60",
+          "alt": "VINOS FINOS H.STAGNARI.jpg",
+          "title": "VINOS FINOS H.STAGNARI.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "restaurante@stagnari.com",
+        "website": "stagnari.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "VINOS_FINOS_H.STAGNARI.jpg",
+          "alt": "VINOS FINOS H.STAGNARI.jpg",
+          "title": "VINOS FINOS H.STAGNARI.jpg"
+        }
+      ],
+      "entity_index": 56,
+      "entity_key": "814f41fbc89ce0074d6341d54e0fa54d",
+      "extended_description": "H. Stagnari es una bodega familiar dirigida por sus dueños y enfocada a la producción de vinos PREMIUM, estos son elaborado con sus propias uvas provenientes de sus dos viñedos: La Puebla – Canelones (uvas blancas) y La Caballada – Salto (uvas tintas). Donde se reúnen las mejores condiciones para los viñedos. Desde sus inicios la bodega se aboco en asentar sus bases en el mercado interno, consolidando la marca y haciéndose reconocida por medio de su calidad y logros en concursos internacionales. Hoy día los vinos finos de H. Stagnari se encuentran en seleccionados restaurantes y vinotecas en todo el mundo Vinos Finos H. Stagnari la bodega del TANNAT mas Premiado del Mundo.",
+      "events": [],
+      "coordinates": [-34.742609632901875, -56.27060169085334],
+      "geocoding_info": null
+    },
+    {
+      "name": "VIÑA EDEN",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "092552300",
+        "info@vinaeden.com",
+        "www.vinaeden.com"
+      ],
+      "como_llegar": [
+        "RUTA 12 KM 26",
+        "Pueblo Eden/Maldonado"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/11/attachments/47",
+          "alt": "VIÑA EDEN.jpg",
+          "title": "VIÑA EDEN.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "info@vinaeden.com",
+        "website": "vinaeden.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "VIÑA_EDEN.jpg",
+          "alt": "VIÑA EDEN.jpg",
+          "title": "VIÑA EDEN.jpg"
+        }
+      ],
+      "entity_index": 57,
+      "entity_key": "98ce0315bd6b791c2819b7b9355ca5bc",
+      "extended_description": "Somos una pequeña bodega boutique dedicada a la elaboración de vinos de calidad de forma sostenible, hemos adoptado en todos nuestros procesos productivos la mejor tecnología disponible con el fin de crear vinos tintos, blancos y espumosos naturales de alta gama. La construcción de nuestra bodega se ha realizado en tres niveles en un diseño vertical, con el propósito de aprovechar la fuerza de gravedad para los movimientos de la uva y del vino en sus distintas fases de producción. Así, iniciamos el proceso de elaboración en el nivel superior con la recepción y procesamiento de la uva, culminando con la maduración de los vinos en la cava dentro del cerro, en condiciones ideales de luz, temperatura y humedad. En todos los procesos de producción se utiliza energía eólica y solar producida en su totalidad en el establecimiento. La calidad de nuestros espumantes y nuestros tintos han recibido importantes premios internacionales.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-vina-eden-noche-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/36665e6afac9eac877f90edc2e6b352dc27e8da8.jpg",
+          "image_alt": "BODEGA VIÑA EDÉN: NOCHE DE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_VIÑA_EDÉN_NOCHE_DE_SAN_JUAN.jpg",
+          "title": "BODEGA VIÑA EDÉN: NOCHE DE SAN JUAN",
+          "description": "",
+          "date": "23/06/2025",
+          "location": "RUTA 12 KM 26 Pueblo Edén Maldonado"
+        }
+      ],
+      "coordinates": [-34.662990283778534, -55.04485741534547],
+      "geocoding_info": null
+    },
+    {
+      "name": "VIÑA VARELA ZARRANZ / BODEGAS VUDÚ",
+      "servicios": [
+        "Tienda",
+        "Restaurante",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "092532646",
+        "/",
+        "23644587",
+        "reservas@varelazarranz.com",
+        "www.varelazarranz.com"
+      ],
+      "como_llegar": [
+        "Ruta 74 km 29",
+        "Joaquín Suarez/Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/30/attachments/48",
+          "alt": "VIÑA VARELA ZARRANZ.jpg",
+          "title": "VIÑA VARELA ZARRANZ.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "reservas@varelazarranz.com",
+        "website": "varelazarranz.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "VIÑA_VARELA_ZARRANZ.jpg",
+          "alt": "VIÑA VARELA ZARRANZ.jpg",
+          "title": "VIÑA VARELA ZARRANZ.jpg"
+        }
+      ],
+      "entity_index": 58,
+      "entity_key": "714f4dca48f47186e8a1f1884cbe645b",
+      "extended_description": "La familia Varela Zarranz comienza sus actividades en el rubro vitivinícola en 1933, adquiriendo una década después las instalaciones de la bodega construida en 1888 por Diego Pons, quien se inició junto a los pioneros de la viticultura uruguaya: Harriague, Vidiella, Varzi y Portal. Este hecho convierte a la familia Varela Zarranz en heredera y continuadora de una historia pujante. Con la incorporación de una tercera generación en 1986, se inició un plan de renovación e implantación de nuevos viñedos y la modernización de la planta de elaboración con tecnología de última generación. Bodega Nuestra bodega atesora elementos patrimoniales de la vitivinicultura uruguaya, de un gran valor histórico. Usted podrá encontrar una perfecta armonía entre lo antiguo y la más moderna tecnología. En su nave central y en su cava subterránea, que data de 1892, descansa la mayor colección de toneles de roble francés en uso en nuestro país, conviviendo con las modernas barricas donde reposan, parte de su vida, los mejores vinos de la familia. El equilibrio entre tecnología y pasión trazan el camino de una empresa prestigiosa y vanguardista. Viñedos Más de cien hectáreas de viña albergan cultivares de origen francés. Abre la lista de uvas tintas la emblemática Tannat del Uruguay. Le sigue Cabernet Sauvignon cuya presencia en este establecimiento data de fines del siglo XIX, además de Cabernet Franc y Merlot. Entre las uvas blancas se cultivan Chardonnay, Sauvignon Blanc, Viognier y, como exclusividad, Muscat Petit Grain. El sistema de conducción adoptado es la Lyra, desarrollada por el investigador francés Prof. Alain Carbonneau. Se ubica entre aquellos sistemas de conducción que permiten una amplia expresión vegetativa, principal característica de las vides cultivadas en nuestras condiciones de suelo y de clima. La superficie de viñedo abarca dos zonas vitícolas diferenciadas por las características de sus suelos dominantes: Cuatro Piedras y Suarez. Apenas se atraviesa el portal de entrada se entra en un mundo diferente. El paisaje de viñedos domina sobre los campos y se encuentra en los primeros planos de la mirada. El entorno de la viña está rodeado de distintas especies de árboles, donde se destaca el camino de olivos centenarios que conduce a la bodega y majestuosa casona, construida en 1888, residencia de la familia Varela Zarranz. La edificación del casco central de la bodega con la antigua casona se encuentran inmersas en un parque con cierto aire romántico gracias a la presencia de araucarias, casuarinas, eucaliptos centenarios y esculturas italianas que lo ornamentan. Bajo la casona se encuentra el antiguo sótano de gruesas paredes de piedra, transformado en sala de degustación",
+      "events": [],
+      "coordinates": [-34.72658798423379, -56.04322684907478],
+      "geocoding_info": {
+        "display_name": "Ruta 74, Joaquín Suárez, Municipio de Nicolich, Canelones, 15500, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "VIÑA VIVA BY BRACCO BOSCA",
+      "servicios": [
+        "Alojamiento",
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "+(598)22956698",
+        "-",
+        "095225853",
+        "sales@braccobosca.com",
+        "www.braccobosca.com"
+      ],
+      "como_llegar": [
+        "Carretera Sosa Días Km 43,500",
+        "Piedra del Toro - Atlantida",
+        "Canelones"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/66/attachments/95",
+          "alt": "BRACCO BOSCA_1.jpg",
+          "title": "BRACCO BOSCA_1.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/66/attachments/96",
+          "alt": "BRACCO BOSCA.jpg",
+          "title": "BRACCO BOSCA.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "sales@braccobosca.com",
+        "website": "braccobosca.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "BRACCO_BOSCA_1.jpg",
+          "alt": "BRACCO BOSCA_1.jpg",
+          "title": "BRACCO BOSCA_1.jpg"
+        },
+        {
+          "src": "BRACCO_BOSCA.jpg",
+          "alt": "BRACCO BOSCA.jpg",
+          "title": "BRACCO BOSCA.jpg"
+        }
+      ],
+      "entity_index": 59,
+      "entity_key": "981135f019f84f5f09819e04f0c118b2",
+      "extended_description": "Braccobosca es una bodega familiar enfocada en la exportación de vinos Premium. Disruptiva en su enfoque produce vinos auténticos en base a uvas diferentes. Un lugar donde la magia se hace presente y desarrolla un vinculo con la tierra y el hombre.  Quien visite será recibido por los propios dueños y a través de ellos tendrá la chance de conocer los vinos y las particularidades de este proyecto y su  historia tan peculiar.",
+      "events": [
+        {
+          "event_link": "https://www.inavi.com.uy/evento/bodega-bracco-bosca-cordero-de-san-juan/",
+          "image_url": "https://www.inavi.com.uy/uploads/agenda/4a95311f7c463d9e89d94fc087dd5a7d017cb60b.jpg",
+          "image_alt": "BODEGA BRACCO BOSCA: CORDERO DE SAN JUAN",
+          "local_image_path": "bodega_images\\BODEGA_BRACCO_BOSCA_CORDERO_DE_SAN_JUAN.jpg",
+          "title": "BODEGA BRACCO BOSCA: CORDERO DE SAN JUAN",
+          "description": "",
+          "date": "21/06/2025",
+          "location": "Carretera Sosa Diaz km 43.500  Piedra del Toro"
+        }
+      ],
+      "coordinates": [-34.71472528193413, -55.84949761847606],
+      "geocoding_info": null
+    },
+    {
+      "name": "VIÑAS DEL 636",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "(+598)",
+        "091723636",
+        "636@adinet.com"
+      ],
+      "como_llegar": [
+        "Carretera Hector Gutierrez Ruiz Km 7",
+        "Rivera"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/74/attachments/80",
+          "alt": "VIÑAS DEL 636.jpg",
+          "title": "VIÑAS DEL 636.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "636@adinet.com",
+        "website": "adinet.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "VIÑAS_DEL_636.jpg",
+          "alt": "VIÑAS DEL 636.jpg",
+          "title": "VIÑAS DEL 636.jpg"
+        }
+      ],
+      "entity_index": 60,
+      "entity_key": "661a856757f1dd436cd40017becf5bae",
+      "extended_description": "Somos un emprendimiento familiar convencidos del enoturismo. Nuestra propuesta es recibirlos  para recorrer nuestros viñedos, bodega, cava y disfrutar con una degustación de nuestros vinos acompañados de una selección de panes, quesos y fiambres. Los esperamos todos los días con reserva previa",
+      "events": [],
+      "coordinates": [-30.951039306510825, -55.484424296532055],
+      "geocoding_info": {
+        "display_name": "Establecimiento \"Viñas del Este\", Ruta 104 Doctor Alejandro Atchugarry, Maldonado, Uruguay",
+        "source": "OpenStreetMap Nominatim"
+      }
+    },
+    {
+      "name": "VIÑAS DEL QUINTÓN",
+      "servicios": [
+        "Tienda",
+        "Tours de degustación"
+      ],
+      "datos_de_contacto": [
+        "096118192",
+        "info@vyodelquinton.com",
+        "www.vyodelquinton.com"
+      ],
+      "como_llegar": [
+        "Ruta 50 kilómetro 17",
+        "500",
+        "El Quinton_Colonia"
+      ],
+      "images": [
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/46/attachments/50",
+          "alt": "VIÑAS DEL QUINTÓN.jpg",
+          "title": "VIÑAS DEL QUINTÓN.jpg"
+        },
+        {
+          "src": "https://services-eu1.arcgis.com/rmHJoYdqrTFfBl3C/arcgis/rest/services/BODEGAS_TURISTICAS_(VISTA)/FeatureServer/0/46/attachments/51",
+          "alt": "Bicicletas.jpg",
+          "title": "Bicicletas.jpg"
+        }
+      ],
+      "contact_info": {
+        "email": "info@vyodelquinton.com",
+        "website": "vyodelquinton.com"
+      },
+      "services": [
+        "Tours de degustación"
+      ],
+      "downloaded_images": [
+        {
+          "src": "VIÑAS_DEL_QUINTÓN.jpg",
+          "alt": "VIÑAS DEL QUINTÓN.jpg",
+          "title": "VIÑAS DEL QUINTÓN.jpg"
+        },
+        {
+          "src": "Bicicletas.jpg",
+          "alt": "Bicicletas.jpg",
+          "title": "Bicicletas.jpg"
+        }
+      ],
+      "entity_index": 61,
+      "entity_key": "51f54ee9a1e2c7bfc5f9d1e29a490a7c",
+      "extended_description": "La labranza del viñedo conjuga el arte de lo manual y la perfección de la mecánica al ser una bodega gravitacional única en la zona. Cultiva sus uvas en un paisaje de lomadas y planicies, surcada por el arroyo que le da su nombre. A los 34° de latitud sur, las cepas de Cot Malbec y Syrah son conducidas en sistema Guyot en espaldero alto. La labranza del viñedo conjuga el arte de lo manual y la perfección de la mecánica al ser una bodega gravitacional única en la zona.",
+      "events": [],
+      "coordinates": [-34.31434273054321, -57.65284074603641],
+      "geocoding_info": null
+    }
+  ]
+}
