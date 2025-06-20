@@ -5,7 +5,7 @@ export function useSectionFromUrl() {
   const params = useParams();
   
   // Assuming your route is /enot-explora/[sectionCode]
-  const sectionCode = params?.section as keyof typeof sectionCenters | undefined;
+  const sectionCode = params?.section;
   
   return sectionCode || 'UYMO'; // Default to Montevideo if no section in URL
 }

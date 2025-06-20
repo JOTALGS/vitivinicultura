@@ -1,6 +1,5 @@
 // app/layout.tsx
 import type { Metadata } from "next";
-import { GeistSans, GeistMono } from "geist/font";
 import "./globals.css";
 import 'leaflet/dist/leaflet.css';
 import LayoutBody from './LayoutBody';
